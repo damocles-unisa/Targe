@@ -14,9 +14,9 @@ Mattia Limone (mattia.limone@mail.com), Gaetano Cimino (gcimino@unisa.it) and Vi
 In this paper presents TARGE (Trigger-Action Rule GEneration), a novel framework for generating IoT automation rules 
 directly from natural language user intents. TARGE leverages Large Language Models (LLMs) to interpret user intents and employs cross-view contrastive learning to generate rule embeddings that capture TAP functionality and device relationships. Its ranking mechanism combines semantic consistency with LLM-derived perplexity to prioritize contextually coherent rules.
 
-# TARGE Archteture
+# TARGE Architecture
 <div align="center">
-    <img src="./docs/schema_gen_1.svg" alt="TARGE Architecutre"   style="margin: 0 auto">
+    <img src="./docs/schema_gen_1.svg" alt="TARGE Architecture"   style="margin: 0 auto">
 </div>
 
 # Setting Environment
