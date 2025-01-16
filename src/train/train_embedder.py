@@ -17,7 +17,7 @@ from sentence_transformers.evaluation import TripletEvaluator
 import warnings
 import wandb
 
-wandb.login(key="466e275709f8aeb213cf8d953d03e18d14179078")
+wandb.login(key="")
 
 use_wandb = False
 warnings.simplefilter(action='ignore', category=FutureWarning)
