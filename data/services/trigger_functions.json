@@ -1,0 +1,2414 @@
+{
+    "#epicjobs": [
+        "New job is posted"
+    ],
+    "AC Cloud Control": [
+        "Temperature rises above",
+        "Device alert",
+        "Temperature drops below",
+        "A/C turned on"
+    ],
+    "ACLU": [
+        "New blog post from search",
+        "Breaking news",
+        "New blog post"
+    ],
+    "AL-KO Smart Garden": [
+        "Smart lawnmower button press once",
+        "Robolinho\u00ae has arrived at the base station",
+        "Robolinho\u00ae has started mowing",
+        "Robolinho\u00ae has lost WiFi connection (is offline)",
+        "Robolinho has detected rain",
+        "Robolinho\u00ae reports an error"
+    ],
+    "AQUAREA Smart Cloud": [
+        "Error notification"
+    ],
+    "ASUS Router": [
+        "Device connects"
+    ],
+    "ASUS ZenEye": [
+        "Sound is detected",
+        "Motion is detected"
+    ],
+    "AT&T M2X": [
+        "Trigger fired",
+        "New device location"
+    ],
+    "Acer Air Monitor": [
+        "Air quality is very unhealthy",
+        "Air quality is unhealthy",
+        "Button pressed",
+        "New air quality reading"
+    ],
+    "Adafruit": [
+        "Any new data",
+        "Monitor a feed on Adafruit IO"
+    ],
+    "AduroSmart": [
+        "Contact switch sensor opened",
+        "Motion sensor detected"
+    ],
+    "Aerial Technologies": [
+        "Suspected Stopped",
+        "Motion Detected",
+        "Motion Stopped",
+        "Suspected Motion"
+    ],
+    "Agile Octopus": [
+        "Energy price threshold change for duration",
+        "Energy prices published",
+        "Energy price change",
+        "Carbon intensity threshold change for duration",
+        "Energy consumption",
+        "Energy price lowest for duration"
+    ],
+    "AiDot": [
+        "Water leak sensor",
+        "Motion sensor",
+        "Door sensor"
+    ],
+    "Air Quality by IQAir AirVisual": [
+        "Device's humidity is above",
+        "Device's AQI is above",
+        "Device's AQI is below",
+        "Device's CO2 is above",
+        "Device's humidity is below"
+    ],
+    "AirPatrol WiFi": [
+        "Low temperature"
+    ],
+    "AirTouch": [
+        "Air conditioning temperature rises above",
+        "Air conditioning is turned off",
+        "Air conditioning is turned on",
+        "Air conditioning temperature falls below"
+    ],
+    "Airtable": [
+        "New record created"
+    ],
+    "Airthings": [
+        "Humidity rises above threshold",
+        "CO2 level above threshold",
+        "Humidity falls below threshold",
+        "Mold risk level above threshold",
+        "Radon level above threshold",
+        "Temperature below threshold"
+    ],
+    "Amazon Alexa": [
+        "Say a specific phrase",
+        "Item added to your To Do List",
+        "Item edited on your To Do List",
+        "Your Alarm goes off",
+        "Item added to your Shopping List",
+        "Your Timer goes off",
+        "New song played",
+        "Ask what's on your Shopping List",
+        "Ask what's on your To Do List",
+        "Item deleted on your Shopping List",
+        "Ask for a sports team's next game",
+        "Ask for a sports team's score",
+        "Item completed on your To Do List",
+        "Item deleted on your To Do List",
+        "Item edited on your Shopping List"
+    ],
+    "Ambi Climate": [
+        "Temperature drops below a threshold",
+        "Humidity rises above a threshold",
+        "Temperature rises above a threshold"
+    ],
+    "Ambient Weather": [
+        "Daily Rain rises above",
+        "Wind Speed rises above",
+        "UV rises above",
+        "Outdoor Temperature rises above",
+        "Parameter rises above",
+        "Outdoor Temperature falls below",
+        "Parameter falls below"
+    ],
+    "American Psychological Association": [
+        "New Psychology Benefits Society blog post"
+    ],
+    "Android Battery": [
+        "Device is plugged in",
+        "Battery drops below 15%",
+        "Device is unplugged"
+    ],
+    "Android Device": [
+        "Connects to a specific WiFi network",
+        "Connects or disconnects from a specific WiFi network",
+        "Disconnects from a specific WiFi network",
+        "Notification received",
+        "Connects to any WiFi network",
+        "Disconnects from any WiFi network",
+        "Notification received from a specific app",
+        "Connects to a Bluetooth device",
+        "Connects or disconnects from any WiFi network",
+        "Disconnects from a Bluetooth device"
+    ],
+    "Android Phone Call": [
+        "Any incoming phone call missed",
+        "Any incoming phone call ends",
+        "Any outgoing phone call ends",
+        "Incoming phone call from a specific number missed",
+        "Outgoing phone call to a specific number ends",
+        "Incoming phone call from a specific number ends"
+    ],
+    "Android Photos": [
+        "Any new photo",
+        "New screenshot",
+        "New photo taken in area"
+    ],
+    "Android SMS": [
+        "New SMS received from phone number",
+        "Any new SMS received",
+        "Any new SMS sent",
+        "New SMS received matches search",
+        "New SMS sent matches search",
+        "New SMS sent to phone number"
+    ],
+    "Antifurto365 iALARM-XR": [
+        "Trigger Centralina In Allarme"
+    ],
+    "Anyware Services": [
+        "Intrusion detected",
+        "Energy Saving Mode is activated"
+    ],
+    "Apilio": [
+        "Receive an event from Apilio",
+        "Receive an actionable notification from Apilio"
+    ],
+    "Apple App Store": [
+        "App version updated",
+        "App price dropped"
+    ],
+    "Aqara Home for US": [
+        "Door and window sensor is open",
+        "Camera detects motion",
+        "Motion is detected and brightness is below"
+    ],
+    "Aquanta": [
+        "Your water heater has exceeded its energy use threshold",
+        "Your device has connected",
+        "A leak was detected",
+        "Your device has disconnected"
+    ],
+    "Arlo": [
+        "Motion detected",
+        "Low battery reported",
+        "Audio detected",
+        "Detects Object"
+    ],
+    "Asana": [
+        "New task assigned to you in a project",
+        "New task completed in a project",
+        "New project",
+        "Tag added to task"
+    ],
+    "Asuka IoT": [
+        "Sensor is triggered on",
+        "Lock is opened"
+    ],
+    "August": [
+        "Lock unlocked by specific person",
+        "Lock locked by specific person",
+        "Lock locked",
+        "Lock unlocked"
+    ],
+    "Aura": [
+        "Motion detected by Aura"
+    ],
+    "Aura Air": [
+        "Sensor Measurement"
+    ],
+    "Awair": [
+        "Dust level alert",
+        "Carbon Dioxide (CO\u2082) alert",
+        "Low temperature alert",
+        "Low humidity alert",
+        "VOCs alert",
+        "High humidity alert",
+        "High temperature alert"
+    ],
+    "B9": [
+        "New podcast episode available",
+        "New post from B9"
+    ],
+    "BART": [
+        "BART delayed"
+    ],
+    "BDR Thermea Group": [
+        "Current measured temperature changes",
+        "Current set temperature exceeds a threshold",
+        "Current set temperature changes",
+        "Current heating mode changes",
+        "An error occured"
+    ],
+    "Ballotpedia": [
+        "Breaking News"
+    ],
+    "Bbox Miami": [
+        "Any host connected"
+    ],
+    "Beeminder": [
+        "Beemergency day on any goal",
+        "Beemergency day on a specific goal",
+        "Datapoint added to a specific goal",
+        "N days of safety buffer for a specific goal",
+        "Datapoint added to any goal",
+        "Zeno alert for a specific goal",
+        "N days of safety buffer for any goal"
+    ],
+    "Bernafon": [
+        "Connection is lost",
+        "Mute state is changed",
+        "Battery is low"
+    ],
+    "Beseye": [
+        "Human detected"
+    ],
+    "Bitly": [
+        "Any new bitlink"
+    ],
+    "Blink": [
+        "Motion detected"
+    ],
+    "Blink (Europe)": [
+        "Motion detected"
+    ],
+    "BloomSky Weather": [
+        "Timelapse of the day",
+        "Picture of the day",
+        "Device uploads new data",
+        "Device detects low temperature",
+        "Device detects rain"
+    ],
+    "Blue Connect": [
+        "New water measurement",
+        "PH becomes too high",
+        "Temperature is < setpoint",
+        "Temperature is >= setpoint"
+    ],
+    "Blue by ADT": [
+        "A sensor event",
+        "A change in arm state",
+        "An alarm event",
+        "A device or network issue"
+    ],
+    "Bouncie": [
+        "Geo-Circle was exited",
+        "Vehicle has low fuel",
+        "Vehicle was idle for a long time",
+        "Vehicle's check engine light comes on",
+        "Vehicle drove at unusual time",
+        "Geo-Circle was entered",
+        "Vehicle had unusual fuel economy",
+        "Trip was completed"
+    ],
+    "Boundary": [
+        "The alarm was triggered",
+        "The alarm was disarmed",
+        "The alarm was armed"
+    ],
+    "BrainyQuote": [
+        "Love Quotes",
+        "Nature Quotes",
+        "Funny Quotes",
+        "Today's Quote",
+        "Art Quotes"
+    ],
+    "BroadLink": [
+        "Door sensor"
+    ],
+    "Buffer": [
+        "Any new post in Buffer",
+        "New photo in Buffer"
+    ],
+    "Bureau of Economic Analysis": [
+        "New analysis"
+    ],
+    "Button widget": [
+        "Button press"
+    ],
+    "Caavo": [
+        "Caavo search"
+    ],
+    "Caltrain": [
+        "New update"
+    ],
+    "Camera widget": [
+        "Any new photo"
+    ],
+    "Camio": [
+        "Advanced motion detected",
+        "Motion detected",
+        "Power disconnected"
+    ],
+    "Centers for Disease Control and Prevention": [
+        "New food safety update"
+    ],
+    "Chicago Transit Authority": [
+        "New brown line alert",
+        "New rail alert",
+        "New yellow line alert",
+        "New blue line alert",
+        "New orange line alert",
+        "New red line alert"
+    ],
+    "City of Tampa, Florida": [
+        "New job opening",
+        "Police calls for service"
+    ],
+    "ClickSend SMS": [
+        "SMS received"
+    ],
+    "ClinicalTrials.gov": [
+        "New diabetes clinical trial",
+        "New cancer clinical trial",
+        "New asthma clinical trial"
+    ],
+    "Cloud Intelligence": [
+        "Outlet power switch is turned on or off"
+    ],
+    "CloudRain Smart Garden Irrigation": [
+        "Irrigation started",
+        "Irrigation stopped"
+    ],
+    "Coinbase": [
+        "Cryptocurrency sold",
+        "Cryptocurrency bought"
+    ],
+    "ComEd": [
+        "Change in Average Price",
+        "Peak Time Savings - Savings Hours Announced",
+        "Manage your Carbon Footprint - Change in carbon intensity",
+        "Carbon Quality"
+    ],
+    "Confio": [
+        "Scene was triggered"
+    ],
+    "D-Link Wi-Fi Router": [
+        "Device connected",
+        "Device disconnected",
+        "Host Wi-Fi information is changed",
+        "Guest Wi-Fi information is changed"
+    ],
+    "DART": [
+        "New DART rider alert"
+    ],
+    "Daikin Online Controller": [
+        "Temperature drops below",
+        "Unit notification",
+        "Temperature rises above",
+        "Unit turned off",
+        "Unit turned on"
+    ],
+    "Dailymotion": [
+        "New video uploaded",
+        "New favorite video",
+        "New video added in one of my playlists"
+    ],
+    "Danalock": [
+        "Door unlocked",
+        "Door locked"
+    ],
+    "Das Keyboard Q": [
+        "IOT Device, Zone, and Action"
+    ],
+    "Date & Time": [
+        "Every day at",
+        "Every day of the week at",
+        "Every month on the",
+        "Every year on",
+        "Every hour at"
+    ],
+    "Dawn House": [
+        "When the smart bed alarm clock is activated"
+    ],
+    "Delicious": [
+        "Any new public bookmark",
+        "New public bookmark tagged"
+    ],
+    "Department of Agriculture": [
+        "New open recall",
+        "New askFSIS Q&A",
+        "News from the USDA"
+    ],
+    "Department of Defense": [
+        "Photo essays",
+        "News articles"
+    ],
+    "Department of Labor": [
+        "News releases (en Espa\u00f1ol)",
+        "New video uploaded",
+        "New Employment Situation published",
+        "New Producer Price Index monthly release",
+        "New Consumer Price Index monthly release",
+        "News releases"
+    ],
+    "Department of State": [
+        "Travel warnings",
+        "Travel alerts",
+        "Press releases"
+    ],
+    "Diigo": [
+        "Any new public bookmark",
+        "New public bookmark tagged"
+    ],
+    "Discord": [
+        "New pinned message in channel"
+    ],
+    "Domino's": [
+        "Order out for delivery",
+        "Order being prepped",
+        "Order ready for pickup",
+        "Order in the oven",
+        "Order has hit quality check"
+    ],
+    "Dribbble Job Board": [
+        "New job is available"
+    ],
+    "Dropbox": [
+        "New file in your folder",
+        "New photo in your folder",
+        "New text file in your folder"
+    ],
+    "EDF : vos plages tarifaires": [
+        "D\u00e9but de plage tarifaire"
+    ],
+    "EZVIZ": [
+        "An alarm event occurred"
+    ],
+    "EasyCSV": [
+        "New Row Importing from a CSV or Google Sheet"
+    ],
+    "EasyControl of Bosch": [
+        "Temperature rises above",
+        "Away Mode",
+        "Notification",
+        "Home Mode",
+        "Humidity rises above",
+        "Temperature drops below",
+        "Room temperature changed",
+        "Humidity drops below"
+    ],
+    "Eight": [
+        "Alarm event",
+        "Day and night mode"
+    ],
+    "Electronic Frontier Foundation": [
+        "News updates",
+        "Action alerts"
+    ],
+    "Email": [
+        "Send IFTTT any email",
+        "Send IFTTT an email tagged"
+    ],
+    "Energenie Mi|Home": [
+        "Motion detected"
+    ],
+    "Energy Information Administration": [
+        "This Week in Petroleum",
+        "Today in Energy"
+    ],
+    "Environmental Protection Agency": [
+        "Latest news"
+    ],
+    "Envoy": [
+        "Visitor is pre-registered",
+        "Visitor finishes signing in",
+        "Visitor signs out"
+    ],
+    "Epion": [
+        "CO\u2082 above a specified value",
+        "Temperature above a specified value",
+        "Humidity below a specified value",
+        "CO\u2082 below a specified value"
+    ],
+    "Equal Rights Advocates": [
+        "New blog post"
+    ],
+    "Ergomotion Smart Bed": [
+        "When the smart bed alarm clock  is activated"
+    ],
+    "Evernote": [
+        "New note in a notebook",
+        "Add a specific tag to note"
+    ],
+    "FIBARO": [
+        "Motion detected",
+        "Smoke alarm",
+        "Low battery level",
+        "The button"
+    ],
+    "FUJITSU GENERAL LIMITED": [
+        "When AC is ON"
+    ],
+    "Facebook": [
+        "New status message by you",
+        "You are tagged in a photo",
+        "New link post by you",
+        "New photo post by you",
+        "Your profile changes",
+        "New link post by you with hashtag",
+        "New status message by you with hashtag",
+        "New photo post by you with hashtag",
+        "New photo post by you in area",
+        "Any new post by you in area"
+    ],
+    "Facebook Pages": [
+        "New status message on page",
+        "New photo upload on page",
+        "New link post on page",
+        "New link post with hashtag on page",
+        "New photo upload with hashtag on page",
+        "New status message with hashtag on page"
+    ],
+    "Federal Communications Commission": [
+        "New order",
+        "New notice",
+        "News release"
+    ],
+    "Feedly": [
+        "New article saved for later",
+        "New article from category",
+        "New source added",
+        "New article in personal board (legacy)",
+        "New popular article from category"
+    ],
+    "Festina Watches": [
+        "Pusher pressed"
+    ],
+    "Filtrete\u2122 Smart": [
+        "Filtrete barcode air filter life (days remaining) dropped below",
+        "New Filtrete air filter installed",
+        "Outdoor Air Quality Value became higher than",
+        "Outdoor Air Quality updated",
+        "Filtrete Smart Air Filter life changed",
+        "Filtrete Smart Air Filter life (%) dropped below",
+        "Outdoor Air Quality Value became lower than",
+        "Outdoor Air Quality Level changed"
+    ],
+    "Finance": [
+        "Today's price drops by percentage",
+        "Today's exchange rate report",
+        "Price drops below",
+        "Price at close",
+        "Today's price rises by percentage",
+        "Price rises above"
+    ],
+    "Fing": [
+        "A user arrived",
+        "Internet Outage event happened",
+        "Everyone left",
+        "New device found",
+        "Someone arrived",
+        "A user left",
+        "Internet Speed dropped",
+        "Internet IP changed"
+    ],
+    "Fitbit": [
+        "Daily activity summary",
+        "Daily goal not achieved by __:__",
+        "Daily very active minutes goal achieved",
+        "New weight logged",
+        "New sleep logged",
+        "Daily step goal achieved",
+        "Daily calorie burn goal achieved",
+        "Daily distance goal achieved",
+        "Sleep duration below",
+        "Sleep duration above"
+    ],
+    "Fiverr": [
+        "New order received",
+        "New gig ordered",
+        "New message in inbox",
+        "Any new order delivered",
+        "New image order delivered",
+        "New video order delivered",
+        "New order message in inbox",
+        "New rating by a buyer",
+        "New positive rating by a buyer"
+    ],
+    "Flic": [
+        "Flic is clicked",
+        "A Flic with a tag is clicked"
+    ],
+    "Flickr": [
+        "Any new public photo",
+        "New public favorite",
+        "Any new set",
+        "New public photos",
+        "New public photo tagged"
+    ],
+    "FollowUp.cc": [
+        "New reminder scheduled",
+        "Reminder due"
+    ],
+    "Foobot": [
+        "Pollution is high",
+        "VOC threshold is crossed",
+        "Knock knock",
+        "New air quality reading"
+    ],
+    "Fort Collins Utilities Time of Day Pricing": [
+        "Time of Day Peak Rates START/END",
+        "BEFORE Time of Day Peak Rates START"
+    ],
+    "Foursquare": [
+        "Any new check-in",
+        "New check-in by friend in area",
+        "New check-in by you in area",
+        "New check-in tagged",
+        "New check-in at category",
+        "New check-in with photo"
+    ],
+    "Fox News": [
+        "Trending news from section",
+        "Breaking news alert",
+        "Trending business news from section",
+        "New headlines from section"
+    ],
+    "Futurehome": [
+        "Mode switched",
+        "Motion no longer detected",
+        "Motion detected",
+        "Smarthub offline",
+        "Shortcut run",
+        "Smoke detected"
+    ],
+    "GE Appliances Cooking": [
+        "Oven timer done",
+        "Cooking timer done",
+        "Oven turned on",
+        "Preheat temperature achieved"
+    ],
+    "GE Appliances Dishwasher": [
+        "End of cycle",
+        "Filter needs cleaning",
+        "Leak detected",
+        "Rinse aid levels low"
+    ],
+    "GE Appliances Dryer": [
+        "End of cycle",
+        "End of cycle alarm"
+    ],
+    "GE Appliances GeoSpring\u2122": [
+        "Air filter dirty",
+        "Heat pump mode selected"
+    ],
+    "GE Appliances Refrigerator": [
+        "Any door open",
+        "Refrigerator door open",
+        "Open door alarm"
+    ],
+    "GE Appliances Washer": [
+        "End of cycle",
+        "Cycle ends in 10 minutes",
+        "End of cycle alarm"
+    ],
+    "GE Appliances Window AC": [
+        "Fan only mode selected"
+    ],
+    "GO": [
+        "Battery is low",
+        "Mute state is changed"
+    ],
+    "Garadget": [
+        "Door event",
+        "Door opens",
+        "Door closes"
+    ],
+    "GarageWiFi & Gates": [
+        "Door is open",
+        "Door is closed"
+    ],
+    "Garageio": [
+        "Door opened or closed"
+    ],
+    "Genius Hub": [
+        "Zone temperature exceeds a threshold",
+        "Zone is being occupied"
+    ],
+    "Gewiss Smart Home IoT": [
+        "Something Happened With Your Thermostat",
+        "Something Interesting Happened In The Smart Home"
+    ],
+    "Giphy": [
+        "New trending GIF",
+        "New GIF based on keyword",
+        "New random GIF based on keyword"
+    ],
+    "Gira Smart Home": [
+        "Value rises above",
+        "Switched off",
+        "Scene started",
+        "Switched on"
+    ],
+    "GitHub": [
+        "New pull request for a specific repository",
+        "Any new issue",
+        "Any new closed issue",
+        "New issue assigned to you",
+        "Any new notification from a repository",
+        "New repository by a specific username or organization",
+        "Any new commit"
+    ],
+    "Gmail": [
+        "[Inactive] New email in inbox from search"
+    ],
+    "Google Assistant": [
+        "Say a simple phrase",
+        "Say a phrase with a number",
+        "Say a phrase with a text ingredient",
+        "Say a phrase with both a number and a text ingredient"
+    ],
+    "Google Calendar": [
+        "New event added",
+        "Event from search starts",
+        "Any event starts",
+        "Any event ends",
+        "New event from search added",
+        "New event from search ends",
+        "You respond to an event invite"
+    ],
+    "Google Contacts": [
+        "New contact added",
+        "New contact added to group"
+    ],
+    "Google Docs": [
+        "New document added"
+    ],
+    "Google Drive": [
+        "New file in your folder",
+        "New photo in your folder",
+        "New starred file in folder"
+    ],
+    "Google Sheets": [
+        "New row added to spreadsheet",
+        "New spreadsheet added to folder",
+        "Cell updated in spreadsheet",
+        "New worksheet in spreadsheet"
+    ],
+    "Google Tasks": [
+        "A task is completed",
+        "New task added"
+    ],
+    "Google Wifi": [
+        "Device Connects",
+        "Device Disconnects"
+    ],
+    "Grants.gov": [
+        "New grant opportunity"
+    ],
+    "Green Light Signal": [
+        "If CO2 Level Is Low"
+    ],
+    "GroupLotse": [
+        "New group decision or direct action taken"
+    ],
+    "HAVEN IAQ": [
+        "PM2.5 threshold is crossed",
+        "Relative Humidity threshold is crossed",
+        "VOC threshold is crossed"
+    ],
+    "Hacker News": [
+        "New Show HN story",
+        "New comment by user",
+        "New top story",
+        "New best story",
+        "New job posted",
+        "New story by user"
+    ],
+    "Harvest": [
+        "Timer stopped",
+        "Timer started",
+        "Project created"
+    ],
+    "Heatmiser": [
+        "Temperature drops below"
+    ],
+    "Heatzy": [
+        "Device is turned off",
+        "Device is set to eco mode",
+        "Device is set to cool mode",
+        "Device is set to heat mode"
+    ],
+    "Home Connect Coffee Machine": [
+        "Out of water",
+        "Out of beans",
+        "Coffee machine started"
+    ],
+    "Home Connect Cookit": [
+        "Cookit started",
+        "Cookit finished",
+        "Cookit turned on"
+    ],
+    "Home Connect Cooktop": [
+        "Cooktop clock timer elapsed",
+        "Cooktop turned on",
+        "Child lock deactivated",
+        "Cooking sensor battery empty"
+    ],
+    "Home Connect Dishwasher": [
+        "Cycle starts",
+        "Cycle is complete",
+        "Door opened"
+    ],
+    "Home Connect Dryer": [
+        "Cycle is complete",
+        "Drying process finished",
+        "Lint filter is full",
+        "Condensate container is full"
+    ],
+    "Home Connect Fridge Freezer": [
+        "Refrigerator door open too long",
+        "Refrigerator door opened",
+        "Freezer door open too long",
+        "Freezer door opened",
+        "Freezer temperature too high"
+    ],
+    "Home Connect Hood": [
+        "Grease filter saturation reached",
+        "Carbon filter saturation nearly reached",
+        "Hood turned on",
+        "Hood turned off"
+    ],
+    "Home Connect Oven": [
+        "Door opened",
+        "Oven turned on",
+        "Oven clock timer elapsed",
+        "Oven finished",
+        "Preheat temperature reached",
+        "Door closed"
+    ],
+    "Home Connect Roxxter": [
+        "Roxxter started"
+    ],
+    "Home Connect Washer": [
+        "Cycle is complete",
+        "Cycle starts"
+    ],
+    "Home Connect Wine Cooler": [
+        "Wine cooler door opened",
+        "Wine cooler door open too long"
+    ],
+    "HomeSeer": [
+        "A device is turned on",
+        "A device is turned off"
+    ],
+    "Homey": [
+        "A Flow has been started"
+    ],
+    "Honeywell Home": [
+        "Smart Home Security away mode activated",
+        "Smart Home Security home mode activated",
+        "Water leak detected",
+        "Smart Home Security Alarm activated",
+        "Smart Home Security off mode activated"
+    ],
+    "Hopscotch Social Media Management": [
+        "A new text post is published"
+    ],
+    "Hubitat": [
+        "Device turns off",
+        "Water is detected",
+        "Mode changes",
+        "Device turns on",
+        "Motion is detected",
+        "Temperature drops below"
+    ],
+    "Huma-i": [
+        "VOCs Alert",
+        "Carbon Dioxide(CO\u2082) Alert",
+        "PM2.5 Alert",
+        "AQI Levels Detect Alert"
+    ],
+    "Husqvarna Automower\u00ae": [
+        "Automower\u00ae status has changed",
+        "Automower\u00ae has an error",
+        "Automower\u00ae is leaving charging station"
+    ],
+    "IFTTT": [
+        "New trigger or action published by service",
+        "New Applet published by service",
+        "New IFTTT update",
+        "Daily recommended Applet for you",
+        "New service published on IFTTT"
+    ],
+    "INSTAR": [
+        "Cloud storage will expire",
+        "Too many false alarms",
+        "Too many alarm uploads"
+    ],
+    "Imwork": [
+        "New Chat Message"
+    ],
+    "Indeed": [
+        "New job is available"
+    ],
+    "Inoreader": [
+        "New broadcasted article",
+        "New article in folder",
+        "New tagged article",
+        "New starred article",
+        "New liked article",
+        "New saved web page",
+        "New post on our blog",
+        "New subscription",
+        "New Active Search result",
+        "New bundle created by you"
+    ],
+    "Instagram": [
+        "Any new photo by you",
+        "New photo by you with specific hashtag",
+        "Any new video by you",
+        "New video by you with specific hashtag"
+    ],
+    "Instapaper": [
+        "New item saved",
+        "Item moved to folder",
+        "New highlight",
+        "New liked item",
+        "New comment",
+        "New archived item"
+    ],
+    "International Monetary Fund": [
+        "New World Economic Outlook",
+        "New Fiscal Monitor report"
+    ],
+    "Invoxia GPS Tracker": [
+        "When anti-theft alert is triggered",
+        "When significant journey alert is triggered",
+        "When button is pressed",
+        "When zone alert is triggered",
+        "When low battery alert is triggered",
+        "When new location data is available"
+    ],
+    "Invoxia Triby": [
+        "On button pressed"
+    ],
+    "IoT Podcast": [
+        "New IoT Podcast episode",
+        "New article from Stacey on IoT"
+    ],
+    "Is It Christmas?": [
+        "Is It Christmas?"
+    ],
+    "Itch.io": [
+        "Recent games on sale",
+        "Recent free games"
+    ],
+    "Ivideon": [
+        "Motion detected"
+    ],
+    "Jaguar Watches": [
+        "Pusher pressed"
+    ],
+    "Jotform": [
+        "New submission"
+    ],
+    "Kaiterra": [
+        "AQI by location and above threshold",
+        "Data from my device above threshold",
+        "Hourly average AQI from my device above threshold",
+        "AQI by location",
+        "AQI from my device",
+        "Hourly average AQI from my device"
+    ],
+    "King County Metro": [
+        "New metro alert from King County Metro",
+        "New service alert on Rapid Ride C line",
+        "New service alert on Rapid Ride D line",
+        "New service alert on Rapid Ride E line",
+        "New service alert on Rapid Ride A line"
+    ],
+    "Knocki": [
+        "Gesture with task matching ID occurs"
+    ],
+    "Kronaby": [
+        "Pusher pressed"
+    ],
+    "Kubu Smart": [
+        "Door is Unlocked",
+        "Door is Locked"
+    ],
+    "LaMetric": [
+        "Action Button Pressed"
+    ],
+    "Leeo": [
+        "Alarm triggered"
+    ],
+    "Lennox iComfort": [
+        "Away mode is entered",
+        "Away mode is cancelled",
+        "Indoor temperature rises above",
+        "Indoor Temperature drops below"
+    ],
+    "Levoit Air Purifier": [
+        "Filter life drops below threshold",
+        "Air quality changes",
+        "Air purifier turns on"
+    ],
+    "Library of Congress": [
+        "Picture This: Library of Congress Prints",
+        "Today in history",
+        "Latest news",
+        "New blog post"
+    ],
+    "LightwaveRF Lighting": [
+        "Light switched on",
+        "Light switched off"
+    ],
+    "Link My Pet": [
+        "Generate Detail Pet Activity Report",
+        "Generate Pet Activity Report",
+        "Get Collar Information",
+        "Get Version Updates"
+    ],
+    "LinkDesk": [
+        "Enter a room",
+        "Leave a room"
+    ],
+    "LinkJapan eHome": [
+        "Device turns on or off"
+    ],
+    "Litter-Robot by Whisker": [
+        "Litter Robot Events"
+    ],
+    "Livy": [
+        "Livy Protect alarm activation",
+        "Livy Protect alarm goes off"
+    ],
+    "Location": [
+        "You enter an area",
+        "You exit an area",
+        "You enter or exit an area"
+    ],
+    "Logitech Circle": [
+        "Recording ended"
+    ],
+    "Logitech POP": [
+        "Short Press",
+        "Double Press",
+        "Long Press"
+    ],
+    "Longreads": [
+        "Any new post on Longreads",
+        "New post on Longreads in 'Food'"
+    ],
+    "Lotus Watches": [
+        "Pusher pressed"
+    ],
+    "Lytmi": [
+        "Device or group is turned on",
+        "Device or group is turned off"
+    ],
+    "MESH": [
+        "Event from MESH app received"
+    ],
+    "MIYO": [
+        "Irrigation has started",
+        "Soil is wet"
+    ],
+    "Maestro by Stelpro": [
+        "Problem detected",
+        "Temperature exceeds limit"
+    ],
+    "Mailchimp": [
+        "Campaign summary available",
+        "New campaign sent",
+        "New subscriber",
+        "New unsubscribed email"
+    ],
+    "Mapeheat Thermo Connect": [
+        "Temperature rises above",
+        "When thermostat comes online"
+    ],
+    "Medium": [
+        "Post bookmarked by you",
+        "Post recommended by you",
+        "Post published by you"
+    ],
+    "MeisterTask": [
+        "Task created in project",
+        "Task created in section"
+    ],
+    "Microsoft To Do": [
+        "Task in list completed"
+    ],
+    "Misfit": [
+        "Flash button double pressed",
+        "Flash button triple pressed",
+        "Daily activity summary",
+        "Sleep duration below",
+        "Daily goal achieved",
+        "Sleep duration above",
+        "Daily goal not achieved by __:__",
+        "Flash button long pressed",
+        "Flash button single pressed"
+    ],
+    "Mitsubishi Electric kumo cloud": [
+        "Zone turned on",
+        "Zone turned off",
+        "Temperature too high",
+        "Mode changed",
+        "Temperature too low"
+    ],
+    "MobiLinc": [
+        "A Z-Wave device is reporting low battery"
+    ],
+    "Monzo": [
+        "Any card purchase at a merchant",
+        "Any card purchase",
+        "Any new attachment added",
+        "Any card purchase above an amount"
+    ],
+    "Moodo & Moodo AIR": [
+        "Favorite is applied for Moodo device",
+        "Moodo is stopped",
+        "Moodo is started"
+    ],
+    "Musaic": [
+        "New liked song"
+    ],
+    "Musixmatch": [
+        "New MusicID",
+        "New favorite track"
+    ],
+    "Muslim Prayer Time": [
+        "Prayer time",
+        "Fasting time"
+    ],
+    "My Leviton": [
+        "Scene ran"
+    ],
+    "MyMilan": [
+        "Siren",
+        "Motion Sensor"
+    ],
+    "MyQ": [
+        "Door opened",
+        "Door closed"
+    ],
+    "Myfox HomeControl": [
+        "System detects a household risk",
+        "System detects an intrusion",
+        "System is disabled",
+        "System is armed"
+    ],
+    "NAACP": [
+        "New post in NAACP News"
+    ],
+    "NIBE Uplink": [
+        "Alarm occurs on system"
+    ],
+    "NJ Transit": [
+        "New light rail advisory",
+        "New bus advisory"
+    ],
+    "NPR": [
+        "New story published"
+    ],
+    "Narrative": [
+        "Photo favorited"
+    ],
+    "Narro": [
+        "New reading"
+    ],
+    "National Science Foundation": [
+        "New discoveries",
+        "News from the National Science Foundation",
+        "New 'The Discovery Files' podcast"
+    ],
+    "National Vulnerability Database": [
+        "New vulnerability published"
+    ],
+    "Nature Remo": [
+        "Humidity drops below"
+    ],
+    "Nefit Easy": [
+        "Temperature rises above"
+    ],
+    "Nest Cam": [
+        "New sound or motion event",
+        "New motion event",
+        "New sound event"
+    ],
+    "Nest Protect": [
+        "Smoke alarm emergency",
+        "Carbon monoxide emergency",
+        "Smoke alarm warning",
+        "Carbon monoxide warning",
+        "Battery is low"
+    ],
+    "Nest Thermostat": [
+        "Temperature rises above",
+        "Temperature drops below",
+        "Nest set to Away",
+        "Nest set to Home"
+    ],
+    "Netatmo Security": [
+        "A specific person has been seen",
+        "Camera has been switched off",
+        "Smoke detected",
+        "A specific person arrives home",
+        "Someone unknown has been seen",
+        "Someone known arrives home",
+        "Camera has a problem",
+        "A person has been seen outside",
+        "A Tag detected vibrations",
+        "An alarm has been detected",
+        "Someone known has been seen",
+        "A vehicle has been seen outside",
+        "Camera has been switched on",
+        "Motion has been detected"
+    ],
+    "Netatmo Thermostat": [
+        "Low battery alert",
+        "Entering away mode",
+        "Entering manual mode",
+        "Exiting away mode",
+        "Entering frost-guard mode"
+    ],
+    "Netatmo Weather Station": [
+        "Temperature rises above",
+        "Carbon dioxide drops below",
+        "Wind speed rises above",
+        "Noise level rises above",
+        "Rain detected",
+        "Yesterday's rainfall measurement",
+        "Humidity rises above",
+        "Temperature drops below",
+        "Today's rainfall measurement",
+        "Carbon dioxide rises above",
+        "Air pressure rises above",
+        "Rain no longer detected",
+        "Noise level drops below",
+        "Gust speed rises above",
+        "Humidity drops below"
+    ],
+    "Netro": [
+        "events",
+        "sensor data"
+    ],
+    "NewsBlur": [
+        "New saved story",
+        "New unread story",
+        "New unread focus story",
+        "New shared story"
+    ],
+    "Nexia": [
+        "Nexia automation runs",
+        "Lock is unlocked"
+    ],
+    "Nice": [
+        "Door is open",
+        "Door is closed"
+    ],
+    "Niko Home Control": [
+        "Routine activated",
+        "Device turned on",
+        "Virtual Device turned on"
+    ],
+    "Noon Home": [
+        "Scene changed"
+    ],
+    "Noonlight": [
+        "Alarm triggered"
+    ],
+    "Note widget": [
+        "Any new note"
+    ],
+    "Notion": [
+        "Window opens, closes or moves",
+        "Temperature crosses a threshold",
+        "Water Leak detected",
+        "Smoke or CO Alarm detected",
+        "Door opens, closes or moves"
+    ],
+    "Notion.so": [
+        "New page in a database"
+    ],
+    "Nuki Opener": [
+        "Arrive home",
+        "Door opened",
+        "Ring to Open",
+        "Doorbell Ring",
+        "Battery warning"
+    ],
+    "Nuki Smart Lock": [
+        "Arrive home",
+        "Door unlocked",
+        "Battery warning",
+        "Calibration warning",
+        "Leave home"
+    ],
+    "Oco Camera": [
+        "Motion detected"
+    ],
+    "OhmConnect": [
+        "An #OhmHour starts",
+        "An #OhmHour ends"
+    ],
+    "OneDrive": [
+        "New photo in folder",
+        "New file in folder"
+    ],
+    "Ooma": [
+        "Incoming call from unknown number",
+        "New voicemail",
+        "Any incoming call",
+        "Incoming call from known number"
+    ],
+    "Orion - Voice for Teams": [
+        "Listen for a word or phrase"
+    ],
+    "Oticon": [
+        "Battery is low",
+        "Connection is lost",
+        "Hearing aid turned on",
+        "Volume is changed",
+        "Mute state is changed",
+        "Program is changed"
+    ],
+    "Otiom": [
+        "Start Alarm",
+        "Stop Alarm"
+    ],
+    "PagerDuty": [
+        "New incident assigned to me"
+    ],
+    "Particle": [
+        "New event published",
+        "Monitor a variable",
+        "Monitor your device status"
+    ],
+    "Patreon": [
+        "New campaign",
+        "New post in a campaign",
+        "New member in a campaign"
+    ],
+    "Pebblebee": [
+        "Stone press"
+    ],
+    "Pew Research Center": [
+        "Updates from the research center"
+    ],
+    "Philips Air Purifier": [
+        "Air alert"
+    ],
+    "Philips HearLink": [
+        "Battery is low",
+        "Connection is lost"
+    ],
+    "Phone Call (US only)": [
+        "Leave IFTTT any voicemail"
+    ],
+    "Phyn": [
+        "Alert detected"
+    ],
+    "Pinboard": [
+        "New public bookmark tagged",
+        "Any new public bookmark"
+    ],
+    "Pocket": [
+        "New favorite item",
+        "Any new item",
+        "New item archived",
+        "New item tagged"
+    ],
+    "Podio": [
+        "New app item"
+    ],
+    "Powered by Viva": [
+        "Motion detected",
+        "At least one person arrives home",
+        "We detect that the home is empty",
+        "We detect that everyone has gone to sleep",
+        "We detect that someone has woken up",
+        "Temperature reading received",
+        "Door opened"
+    ],
+    "ProPublica": [
+        "The president signs a new bill into law",
+        "Congress is scheduled to vote on a bill",
+        "New legislator representing you",
+        "New bill from search is introduced"
+    ],
+    "Product Hunt": [
+        "New hot product",
+        "New featured collection",
+        "You upvote a product",
+        "You comment on a product"
+    ],
+    "Pryv": [
+        "New note added by you",
+        "New numerical value added by you"
+    ],
+    "Purei9": [
+        "Robot changed its status"
+    ],
+    "QNAP": [
+        "New system event",
+        "New file in your folder"
+    ],
+    "QualityTime": [
+        "Daily smartphone usage time",
+        "Daily smartphone screen unlocks"
+    ],
+    "RATOC Remocon": [
+        "\u30ea\u30e2\u30b3\u30f3\u660e\u6697 (\u7167\u5ea6)",
+        "\u30ea\u30e2\u30b3\u30f3\u6e29\u5ea6 (\u2103)",
+        "\u30ea\u30e2\u30b3\u30f3\u6e7f\u5ea6 (%)"
+    ],
+    "RSS Feed": [
+        "New feed item",
+        "New feed item matches"
+    ],
+    "Rachio": [
+        "Watering time starts",
+        "Watering time stops",
+        "Event registered"
+    ],
+    "RainMachine": [
+        "Leak Detected",
+        "Zone has started",
+        "Zone has stopped",
+        "Device is offline"
+    ],
+    "Raindrop.io": [
+        "New favorite item",
+        "New item",
+        "New item tagged",
+        "New highlight",
+        "New item by type"
+    ],
+    "Remember The Milk": [
+        "Task completed"
+    ],
+    "RemoteLync": [
+        "Video ready",
+        "Smoke alarm"
+    ],
+    "Reposit Power": [
+        "You started exporting solar",
+        "You stopped exporting solar"
+    ],
+    "RescueTime": [
+        "FocusTime session starts",
+        "New daily summary is available",
+        "New alert delivered",
+        "FocusTime session finishes",
+        "New highlight is added",
+        "New weekly summary is available"
+    ],
+    "Ring": [
+        "New Motion Detected",
+        "New Ring Detected"
+    ],
+    "RoomMe": [
+        "User entered a room"
+    ],
+    "RoosterMoney": [
+        "Card Spend Authorised",
+        "Removed from Child",
+        "Money Boosted to Child"
+    ],
+    "Rust": [
+        "A smart alarm was triggered",
+        "A teammate comes online",
+        "You were killed by another player",
+        "You were killed",
+        "A smart alarm was triggered with a specific keyword"
+    ],
+    "SAFE By HUB6": [
+        "Status changed"
+    ],
+    "SFGATE": [
+        "New piece from Mark Morford",
+        "New SF Giants update",
+        "New story on SFGATE homepage",
+        "Breaking news"
+    ],
+    "SFMTA": [
+        "New blog post"
+    ],
+    "SMS": [
+        "Send IFTTT an SMS tagged",
+        "Send IFTTT any SMS"
+    ],
+    "Salesforce": [
+        "Record created or updated",
+        "Opportunity was won",
+        "Advanced: Custom Salesforce Trigger [package required]"
+    ],
+    "Samsung Refrigerator": [
+        "Refrigerator needs filter replacement",
+        "Door is left open"
+    ],
+    "Samsung Robot Vacuum": [
+        "Vacuum starts"
+    ],
+    "Samsung Washer": [
+        "Laundry cycle is finished",
+        "Laundry cycle starts",
+        "Wash cycle ending soon"
+    ],
+    "Sateraito Office": [
+        "New message from Robot Browser"
+    ],
+    "Scout Alarm": [
+        "Mode armed",
+        "Alarm triggered",
+        "Access sensor opened",
+        "Alarm dismissed",
+        "Door panel opened",
+        "Mode disarmed",
+        "Motion detected"
+    ],
+    "Securities and Exchange Commission": [
+        "New investor alert",
+        "New filing",
+        "Press releases"
+    ],
+    "Sense Energy Monitor": [
+        "Device turned On/Off"
+    ],
+    "Sesame by CANDY HOUSE": [
+        "Sesame locked",
+        "Sesame unlocked"
+    ],
+    "Sighthound Video": [
+        "New event from a camera",
+        "New event from a rule"
+    ],
+    "SimCam": [
+        "Person Detection",
+        "Facial Recognition",
+        "Object Monitoring"
+    ],
+    "SkyBell HD": [
+        "Your SkyBell HD\u2018s button was pressed",
+        "Your SkyBell HD detected motion"
+    ],
+    "SkylinkNet": [
+        "Sensor battery is low",
+        "Hub status changed",
+        "Sensor activated"
+    ],
+    "Slashdot": [
+        "New story"
+    ],
+    "Slickdeals": [
+        "Popular deals",
+        "Frontpage deals"
+    ],
+    "Smappee": [
+        "Power rises above",
+        "Power drops below",
+        "Solar power rises above",
+        "Appliance turns on",
+        "Solar power drops below",
+        "Appliance turns off"
+    ],
+    "Smart Home Solution": [
+        "We detect that someone has woken up",
+        "At least one person arrives home",
+        "We detect that the home is empty",
+        "Water leak detected",
+        "Temperature reading received",
+        "Motion detected"
+    ],
+    "Smart Life": [
+        "Device or group is turned on",
+        "Device or group is turned off",
+        "Door sensor is open",
+        "Camera detects motion"
+    ],
+    "Smart Louisville": [
+        "Louisville Metro Council Agenda",
+        "Emergency notification",
+        "Air quality changes"
+    ],
+    "SmartHours": [
+        "OGE SmartHours price changes"
+    ],
+    "SmartThings": [
+        "Closed",
+        "Temperature rises above",
+        "Brightness drops below",
+        "Any new motion",
+        "Opened",
+        "Switched off",
+        "Switched on",
+        "Presence detected",
+        "Presence no longer detected",
+        "Temperature drops below",
+        "Brightness rises above",
+        "Unlocked",
+        "Moisture detected",
+        "Locked",
+        "Humidity rises above"
+    ],
+    "Smarter": [
+        "Kettle has finished boiling",
+        "Coffee has finished brewing",
+        "FridgeCam detects that an item has been added to the shopping list"
+    ],
+    "Smitch": [
+        "A motion detected"
+    ],
+    "Somfy Connected Thermostat": [
+        "Thermostat set to a mode",
+        "Temperature rises above",
+        "Low battery alert"
+    ],
+    "Somfy Protect": [
+        "System is armed",
+        "System is set to night mode",
+        "Alarm initiated",
+        "System is disarmed"
+    ],
+    "Songkick": [
+        "New event from a tracked artist",
+        "New event in venue",
+        "New event from search"
+    ],
+    "Sonic": [
+        "Battery is low",
+        "Connection is lost"
+    ],
+    "SoundCloud": [
+        "New public like",
+        "New public track by anyone you follow",
+        "Any new public track",
+        "New track from search"
+    ],
+    "Space": [
+        "Image of the day by NASA",
+        "Astronomy picture of the day by NASA",
+        "Astronaut enters space",
+        "ISS on-orbit status report",
+        "Breaking news by NASA",
+        "ISS passes over a specific location",
+        "Season changes on Mars",
+        "Astronaut exits space"
+    ],
+    "SpotCam": [
+        "Motion event detected",
+        "SpotCam Ring video doorbell pressed",
+        "SpotCam low battery",
+        "Missing Object Event",
+        "Audio event detected",
+        "Pet Detected",
+        "Temperature event detected",
+        "SpotCam Ring battery cover removed",
+        "Illumination event detected",
+        "Virtual Fence Crossed",
+        "Vehicle Detected",
+        "Human Detected"
+    ],
+    "Spotify": [
+        "New track added to a playlist",
+        "New saved track",
+        "New episode from search",
+        "New show from search",
+        "New episode from a followed show",
+        "New recently played track",
+        "New saved album",
+        "New followed show",
+        "New saved episode"
+    ],
+    "Square": [
+        "Any new payment",
+        "Any new refund",
+        "New refund over a specific amount",
+        "New payment over a specific amount",
+        "Any new settlement"
+    ],
+    "Stockimo": [
+        "New photo by you is rejected",
+        "New photo by you is sold",
+        "Any new photo uploaded by you",
+        "New photo by you is accepted",
+        "Payment is credited to you"
+    ],
+    "Strava": [
+        "New activity by you with photo",
+        "New activity by you",
+        "New route by you",
+        "New club event scheduled"
+    ],
+    "SunriseSunset.org": [
+        "On sunset"
+    ],
+    "SurveyMonkey": [
+        "New survey response",
+        "New survey created",
+        "New contact added"
+    ],
+    "Swann Security": [
+        "Sound detected",
+        "Low battery",
+        "Person detected",
+        "Motion detected",
+        "Doorbell button pressed",
+        "Pet detected",
+        "Vehicle detected",
+        "Face recognized"
+    ],
+    "Swidget": [
+        "Motion begins",
+        "Temperature goes below",
+        "Air quality declines",
+        "Air quality improves",
+        "Humidity goes below",
+        "Humidity goes above",
+        "Motion ends"
+    ],
+    "SwitchBot": [
+        "Motion detected or no motion detected",
+        "Temperature or humidity changes"
+    ],
+    "TMT Chow": [
+        "Closed",
+        "Opened"
+    ],
+    "TP-Link Router": [
+        "Device Disconnects",
+        "Device Connects",
+        "New Device Connects"
+    ],
+    "Tailwind": [
+        "Garage door is closed"
+    ],
+    "Tecan Connect": [
+        "Run Completion Message",
+        "Instrument State Change",
+        "Estimated End Time Overshoot",
+        "Custom Message"
+    ],
+    "Telegram": [
+        "New message with key phrase to @IFTTT",
+        "New photo in your channel",
+        "New message in a group",
+        "New message with key phrase in a group",
+        "New post in your channel",
+        "New photo to @IFTTT on Telegram"
+    ],
+    "Telldus Live!": [
+        "Temperature rises above",
+        "Temperature drops below",
+        "A device switched on"
+    ],
+    "Tempest Weather System": [
+        "Temperature drops below",
+        "Temperature rises above",
+        "Rain detected",
+        "Wind speed rises above",
+        "Humidity drops below",
+        "Pressure drops below",
+        "Lightning strike",
+        "New observation",
+        "Solar radiation rises above"
+    ],
+    "Tesco": [
+        "Price drops below",
+        "Price changed"
+    ],
+    "Texas Legislature": [
+        "Today's fiscal notes",
+        "Today's passed bills",
+        "Governor's press and appointment releases"
+    ],
+    "The New York Times": [
+        "New popular article in section",
+        "New Critics' Pick movie review",
+        "New article from search",
+        "New article in section",
+        "New book on the Best Sellers List"
+    ],
+    "ThermoSmart": [
+        "ThermoSmart gets paused",
+        "Temperature rises above",
+        "Temperature drops below"
+    ],
+    "Thinga": [
+        "Thinga was clicked"
+    ],
+    "ThingaOS": [
+        "When FetchIt Button is Pressed",
+        "When Leak Detected",
+        "Whenever Door/Window Opened or Closed"
+    ],
+    "Ti-Do by T-LAB": [
+        "Input trigger"
+    ],
+    "TickTick": [
+        "New task created"
+    ],
+    "Todoist": [
+        "New completed task with label",
+        "New task created with label",
+        "New task created",
+        "New completed task"
+    ],
+    "Toodledo": [
+        "Any task completed",
+        "Any new task",
+        "Task completed in folder",
+        "New task in context",
+        "New task with tag",
+        "New task in folder",
+        "Task completed with tag"
+    ],
+    "Total Connect 2.0": [
+        "Total Connect security panel arming mode has changed",
+        "Total Connect security panel alarm detected"
+    ],
+    "Trakt": [
+        "New watched episode",
+        "New watched movie"
+    ],
+    "Trello": [
+        "Card added to list",
+        "Card added to board",
+        "Card assigned to me"
+    ],
+    "True Energy Smart Home Denmark": [
+        "Electricity in Denmark is Cheap",
+        "Electricity in Denmark is Expensive",
+        "Electricity Price in Denmark is Normal",
+        "Electricity in Denmark is Free"
+    ],
+    "True Energy Smart Home Norway": [
+        "Electricity in Norway is Free",
+        "Electricity in Norway is Cheap",
+        "Electricity in Norway is Expensive",
+        "Electricity Price in Norway is Normal"
+    ],
+    "Tumblr": [
+        "New Like",
+        "New Post Created",
+        "New Photo Post Created"
+    ],
+    "Twitch": [
+        "New stream started by you",
+        "New follower on your channel",
+        "Stream going live for a channel you follow",
+        "New video posted by a channel you follow",
+        "You follow a new channel",
+        "New video posted by you",
+        "A user followed a channel"
+    ],
+    "Twitter": [
+        "New follower",
+        "New tweet by a specific user",
+        "New tweet from search",
+        "New tweet by you",
+        "New link by you",
+        "New tweet by you with hashtag",
+        "New tweet by anyone in area",
+        "New liked tweet by you",
+        "New mention of you",
+        "New tweet by you in area"
+    ],
+    "Typeform": [
+        "New form is created",
+        "New response in a form"
+    ],
+    "U.S. Independence Day": [
+        "U.S. Independence Day"
+    ],
+    "US-CERT": [
+        "New alert"
+    ],
+    "USA.gov": [
+        "Latest news"
+    ],
+    "UbiBot": [
+        "Temperature Rises above or Drops below",
+        "Humidity Rises above or Drops below",
+        "Light Rises above or Drops below",
+        "Device is offline",
+        "External-DS18B20-Temperature-Probe-1 Rises above or Drops below",
+        "Voltage Rises above or Drops below"
+    ],
+    "Ultraloq": [
+        "Lock is unlocked"
+    ],
+    "United Nations Office on Drugs and Crime": [
+        "New press release",
+        "New story"
+    ],
+    "Uplink Remote": [
+        "The alarm panel has been armed",
+        "The alarm panel has been disarmed",
+        "The alarm panel has triggered an alert"
+    ],
+    "VeSync Bulb": [
+        "Turned on",
+        "Turned off"
+    ],
+    "VeSync Dimmer": [
+        "Turned off",
+        "Turned on"
+    ],
+    "VeSync Outlet": [
+        "Device State Changes"
+    ],
+    "VeSync Switch": [
+        "Turned on",
+        "Turned off"
+    ],
+    "Verizon Cloud": [
+        "New contact",
+        "New photo in folder"
+    ],
+    "Vimar VIEW": [
+        "Exchanged Power single phase",
+        "Room Temperature",
+        "Temperature Sensor",
+        "Total Power Consumption single phase",
+        "Total Power Consumption three phases",
+        "Produced Power single phase"
+    ],
+    "Vimeo": [
+        "New video uploaded",
+        "New liked video",
+        "New watch later video",
+        "New staff pick",
+        "New video in your feed",
+        "New video from search",
+        "New live event",
+        "New appearance in a video",
+        "New follower"
+    ],
+    "Warmup Smart Thermostat": [
+        "Away when scheduled to be Away",
+        "Home when scheduled to be Home",
+        "Temperature rises above",
+        "Temperature drops below",
+        "Home when scheduled to be in Sleep mode"
+    ],
+    "Watts": [
+        "Lowest CO2 intensity in the electricity",
+        "Lowest electricity price"
+    ],
+    "We Work Remotely": [
+        "New design job posted to We Work Remotely",
+        "New management and finance job posted to We Work Remotely",
+        "New full-stack programming job posted to We Work Remotely",
+        "Any new job posted to We Work Remotely",
+        "New product job posted to We Work Remotely",
+        "New customer support job posted to We Work Remotely",
+        "New devops and system admin job posted to We Work Remotely"
+    ],
+    "WeMo Coffeemaker": [
+        "Cleaning cycle required",
+        "Water filter needs to be replaced"
+    ],
+    "WeMo Humidifier": [
+        "Water level is low"
+    ],
+    "WeMo Insight Switch": [
+        "Daily cost rises above",
+        "Switched off",
+        "Switched on",
+        "Standby mode entered",
+        "Monthly estimated cost rises above",
+        "Daily minutes on is longer than"
+    ],
+    "WeMo Light Switch": [
+        "Long press",
+        "Switched off",
+        "Switched on"
+    ],
+    "WeMo Lighting": [
+        "Light switched off",
+        "Light switched on",
+        "Light dimmed to specific level"
+    ],
+    "WeMo Maker": [
+        "Momentary on",
+        "Relay off",
+        "Relay on",
+        "Sensor triggered"
+    ],
+    "WeMo Motion": [
+        "Any new motion",
+        "New motion after quiet period"
+    ],
+    "WeMo Slow Cooker": [
+        "Cook timer finished"
+    ],
+    "WeMo Smart Plug": [
+        "Switched off",
+        "Switched on"
+    ],
+    "Weather Underground": [
+        "Current condition changes to",
+        "Sunset",
+        "Today's weather report",
+        "Tomorrow's forecast calls for",
+        "Current temperature rises above",
+        "Current temperature drops below",
+        "Sunrise",
+        "Tomorrow's weather report",
+        "Current pollen count rises above",
+        "Tomorrow's low drops below",
+        "Current UV index rises above",
+        "Wind speed rises above",
+        "Current humidity level rises above",
+        "Tomorrow's high rises above"
+    ],
+    "Webex": [
+        "New message in a Spark room"
+    ],
+    "Webhooks": [
+        "Receive a web request"
+    ],
+    "Weebly": [
+        "Form submission",
+        "Site publish",
+        "Product sale",
+        "Blog comment"
+    ],
+    "Wemo Air Purifier": [
+        "Air quality changed"
+    ],
+    "Wemo Dimmer": [
+        "Long press",
+        "Switched off"
+    ],
+    "Wink Relay": [
+        "Button press"
+    ],
+    "Wink: Egg Minder": [
+        "Egg count drops below"
+    ],
+    "Wink: Porkfolio": [
+        "Money added"
+    ],
+    "Wink: Spotter": [
+        "Temperature drops below",
+        "Temperature rises above"
+    ],
+    "Wireless Tag": [
+        "Door or window is opened",
+        "Temperature is too high",
+        "Temperature is too low",
+        "Humidity or moisture is too low",
+        "Movement is detected",
+        "Update received",
+        "Humidity or moisture is too high",
+        "New KumoApp message",
+        "Door or window is closed",
+        "Tag is moved",
+        "Tag Manager Offline",
+        "Humidity or moisture returns to normal",
+        "Motion sensor has timed out",
+        "Sensor detects water",
+        "Temperature returns to normal"
+    ],
+    "Withings": [
+        "When I have a new weight"
+    ],
+    "Withings Home": [
+        "Your Withings Home goes offline",
+        "Motion has been detected",
+        "An air quality alert has been raised"
+    ],
+    "Withings Sleep": [
+        "Export my last sleep data",
+        "When I get out of bed",
+        "When I get into bed"
+    ],
+    "WordPress": [
+        "Any new post",
+        "New post with tag or category"
+    ],
+    "Works With Cavius": [
+        "Alarm",
+        "Mode changed"
+    ],
+    "World Health Organization": [
+        "New disease outbreak news",
+        "News from the WHO"
+    ],
+    "World Wildlife Fund": [
+        "New story from the World Wildlife Fund"
+    ],
+    "Wyze": [
+        "Motion Sensor detects motion",
+        "Contact Sensor closes",
+        "Contact Sensor opens",
+        "Motion is detected",
+        "Motion Sensor becomes clear",
+        "Smoke alarm is detected",
+        "Sound is detected",
+        "CO alarm is detected"
+    ],
+    "Xtactor": [
+        "Xtactor command"
+    ],
+    "Yardian": [
+        "Watering event executed"
+    ],
+    "Yelp": [
+        "Hot and new business"
+    ],
+    "YoLink": [
+        "Doorsensor Event",
+        "Motion sensor event"
+    ],
+    "YouTube": [
+        "New liked video",
+        "New public video uploaded by you",
+        "New channel membership",
+        "New public video from subscriptions",
+        "New Super Chat message",
+        "New playlist",
+        "New video by channel",
+        "New video from search",
+        "New subscription"
+    ],
+    "Z-Ware": [
+        "Motion detected",
+        "Water leak detected"
+    ],
+    "ZEEQ Smart Pillow by REM-Fit": [
+        "ZEEQ 'Start Sleep' Button",
+        "ZEEQ 'Stop Sleep' Button"
+    ],
+    "Zoho Notebook": [
+        "New Reminder Created",
+        "New Text notecard in Notebook"
+    ],
+    "Zoom": [
+        "Meeting created",
+        "Any scheduled meeting starts",
+        "Any scheduled meeting ends"
+    ],
+    "Zoom Phone": [
+        "New voicemail",
+        "New call recording",
+        "New call in call log"
+    ],
+    "Zubie": [
+        "Vehicle arrives at a place",
+        "Trip ended",
+        "Trip started",
+        "Check engine light is on for any vehicle",
+        "Vehicle driven between hours",
+        "Vehicle leaves a place"
+    ],
+    "abode": [
+        "Alarm activated",
+        "Door opened",
+        "Mode changed"
+    ],
+    "beam": [
+        "Door opened or closed"
+    ],
+    "coqon": [
+        "Coqon rule fires"
+    ],
+    "domovea": [
+        "Intrusion is detected",
+        "Device is switched on",
+        "Scene is launched",
+        "CO2 is __ ppm",
+        "Device is switched off"
+    ],
+    "dondeEsta Family": [
+        "My kid arrives at home"
+    ],
+    "eWeLink Smart Home": [
+        "1-Channel Switch turned on or off",
+        "Temperature goes above or below",
+        "1-Channel Plug turned on or off",
+        "Door sensor is open or closed",
+        "4-Channel Plug turned on or off",
+        "4-Channel Switch turned on or off",
+        "Light  turned on or off",
+        "Power goes above or below",
+        "Zigbee Motion Sensor",
+        "RF Bridge Alarm activated",
+        "When Camera detects a motion event",
+        "3-Channel Switch turned on or off",
+        "2-Channel Switch turned on or off"
+    ],
+    "ecobee": [
+        "Thermostat indoor temperature is less than",
+        "Thermostat enters Smart Home/Away",
+        "Thermostat schedule override",
+        "Thermostat indoor temperature is greater than",
+        "Thermostat indoor humidity is greater than",
+        "Thermostat outdoor temperature is greater than",
+        "Thermostat indoor humidity is less than",
+        "Thermostat outdoor temperature is less than",
+        "Light switch is turned on",
+        "Light switch is turned off"
+    ],
+    "electricityMap": [
+        "When electricity is high carbon (by country)",
+        "When electricity is low carbon (by country)"
+    ],
+    "iDevices": [
+        "Ambient temperature reached",
+        "Thermostat temperature set",
+        "Turns off",
+        "Turns on"
+    ],
+    "iHaus smoke detector": [
+        "Smoke alarm",
+        "Test alarm",
+        "Heat alarm"
+    ],
+    "iHome Control": [
+        "Motion Sensor (iSB01) detects motion (or absence of motion)",
+        "Multi-Sensor (iSS50) detects sound (or absence of sound)",
+        "Multi-Sensor (iSS50) detects occupancy change",
+        "Multi-Sensor (iSS50) crosses a humidity threshold",
+        "Leak Sensor (iSB02) detects leak (or absence of leak)",
+        "Window/Door Sensor (iSB04) is open or closed",
+        "Multi-Sensor (iSS50) detects light (or absence of light)",
+        "Multi-Sensor (iSS50) crosses a temperature threshold"
+    ],
+    "iHome Enhance": [
+        "iHome Enhance button is pressed"
+    ],
+    "iOS Calendar": [
+        "New event added from search",
+        "New event added to specific calendar",
+        "New event added to any calendar"
+    ],
+    "iOS Contacts": [
+        "Any new contact"
+    ],
+    "iOS Photos": [
+        "Any new photo",
+        "New photo with the front camera",
+        "New screenshot",
+        "New photo added to album",
+        "New photo taken in area",
+        "New photo with the rear camera"
+    ],
+    "iOS Reminders": [
+        "Any new reminder",
+        "New reminder added to list",
+        "Any reminder completed",
+        "Reminder completed in list"
+    ],
+    "iRobot": [
+        "Room Started",
+        "Job Complete",
+        "Room Finished",
+        "Robot Started",
+        "Robot Stuck",
+        "Bin full"
+    ],
+    "iSecurity+": [
+        "Person seen by camera",
+        "Motion detected by camera"
+    ],
+    "iSpy Agent": [
+        "Alert",
+        "Sound detected",
+        "Motion detected"
+    ],
+    "iZone": [
+        "iZone system temperature rises above"
+    ],
+    "iotty Smart Home": [
+        "Smart Switch turned on/off/pressed"
+    ],
+    "littleBits": [
+        "Turned On",
+        "Turned Off"
+    ],
+    "mui": [
+        "Display turns on",
+        "Night mode turn off",
+        "Night mode turn on"
+    ],
+    "myStrom": [
+        "Button - Pressed"
+    ],
+    "myUplink": [
+        "Alarm occurs on system"
+    ],
+    "mydlink": [
+        "Water is detected",
+        "Motion is detected",
+        "Sound is detected",
+        "Water is no longer detected",
+        "Contact open is detected"
+    ],
+    "nVent Nuheat Signature Thermostat": [
+        "When thermostat comes online",
+        "Temperature rises above",
+        "When thermostat goes offline"
+    ],
+    "nemy": [
+        "Electricity price changes",
+        "The amount of renewable generation in the grid changes",
+        "Electricity becomes cheap",
+        "Electricity becomes expensive"
+    ],
+    "openHAB": [
+        "Item state changes"
+    ],
+    "put.io": [
+        "Transfer finished"
+    ],
+    "reddit": [
+        "New top post in subreddit",
+        "New upvoted post by you",
+        "Any new post in subreddit",
+        "New hot post in subreddit",
+        "New post by you",
+        "New post saved by you",
+        "New comment by you",
+        "New post from search",
+        "New downvoted post by you"
+    ],
+    "remo+": [
+        "Button Press Detected",
+        "New Motion Detected"
+    ],
+    "simplehuman": [
+        "Low battery"
+    ],
+    "smanos connect": [
+        "System in home mode",
+        "System armed",
+        "System alarm"
+    ],
+    "tado\u00b0 Hot Water": [
+        "tado\u2060\u00b0 switches to Home Mode"
+    ],
+    "tado\u00ba Air Conditioning": [
+        "tado\u2060\u00b0 switches to Home Mode",
+        "tado\u2060\u00b0 switches to Away Mode",
+        "Temperature falls below threshold",
+        "Humidity rises above threshold",
+        "Temperature rises above threshold"
+    ],
+    "tado\u00ba Heating": [
+        "tado\u2060\u00b0 switches to Home Mode",
+        "tado\u2060\u00b0 switches to Away Mode",
+        "Temperature rises above threshold",
+        "Temperature falls below threshold",
+        "Humidity rises above threshold"
+    ],
+    "uHoo": [
+        "uHoo air quality alert"
+    ],
+    "woopla phone calls": [
+        "Trigger call with voice message received",
+        "Trigger call received"
+    ]
+}
