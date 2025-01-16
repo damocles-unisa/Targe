@@ -1,0 +1,2094 @@
+{
+    "(more:trees)": [
+        "Plant tree for self"
+    ],
+    "AC Cloud Control": [
+        "Turn on A/C",
+        "Execute scene",
+        "Turn off A/C",
+        "Enable timer",
+        "Disable timer"
+    ],
+    "AICO": [
+        "Run a scene",
+        "Run a scene by scene name",
+        "Run a remote key"
+    ],
+    "AL-KO Smart Garden": [
+        "Start Robolinho\u00ae (start mowing)",
+        "Send Robolinho\u00ae home to base station (stop mowing)",
+        "Toggle Robolinho\u00ae start / stop (mowing / pause)"
+    ],
+    "AQUAREA Smart Cloud": [
+        "Start/Stop Quiet Mode",
+        "Change Heat Mode settings",
+        "Change Heat Mode settings (for direct setting)"
+    ],
+    "ASUS Router": [
+        "Game boost on",
+        "Turn WiFi off",
+        "Guest network off",
+        "Check new firmware and upgrade",
+        "Turn WiFi on"
+    ],
+    "ASUS ZenEye": [
+        "Turn on Guard",
+        "Turn off Guard"
+    ],
+    "AT&T M2X": [
+        "Send command to device"
+    ],
+    "ATLANTIC Cozytouch": [
+        "Changer la temp\u00e9rature de consigne de vos radiateurs connect\u00e9s"
+    ],
+    "Adafruit": [
+        "Send data to Adafruit IO"
+    ],
+    "AduroSmart": [
+        "Turn on device",
+        "Toggle device on/off",
+        "Turn off device",
+        "Activate a scene",
+        "Change color",
+        "Dim device",
+        "Identify device"
+    ],
+    "Ai-Sync": [
+        "Turn a device on or off"
+    ],
+    "AiDot": [
+        "Change color temperature",
+        "Change color",
+        "Turn on/off"
+    ],
+    "AirPatrol WiFi": [
+        "Turn heat pump on",
+        "Turn heat pump off"
+    ],
+    "AirTouch": [
+        "Turn on/off air conditioning",
+        "Change air conditioning mode"
+    ],
+    "Airtable": [
+        "Create a new record"
+    ],
+    "Alexa Actions by mkZense": [
+        "sendAlexaActionByMkzense"
+    ],
+    "Alexa Doorbell by IJPUK Solutions": [
+        "Trigger the IJPUK Alexa Doorbell"
+    ],
+    "Alexa Voice Monkey": [
+        "Display image",
+        "Make announcement",
+        "Trigger Monkey (Routine)"
+    ],
+    "Alpaca": [
+        "Place Market Order",
+        "Liquidate Positions",
+        "Cancel Open Orders"
+    ],
+    "Amazon Cloud Drive": [
+        "Add file from URL"
+    ],
+    "Amba": [
+        "Share with Amba"
+    ],
+    "Ambi Climate": [
+        "Provide Comfort Feedback",
+        "Run your A/C in comfort mode",
+        "Turn off your A/C"
+    ],
+    "American Standard\u00ae Home": [
+        "Run a American Standard Home automation"
+    ],
+    "Android Device": [
+        "Mute ringtone",
+        "Update device wallpaper",
+        "Set ringtone volume",
+        "Launch Google Maps Navigation",
+        "Play music",
+        "Play a specific song",
+        "Turn on Bluetooth",
+        "Turn off Bluetooth"
+    ],
+    "Android SMS": [
+        "Send an SMS"
+    ],
+    "Angelcam": [
+        "Stop camera recording",
+        "Start camera recording",
+        "Receive event from sensor"
+    ],
+    "Antifurto365 iALARM-XR": [
+        "Inserimento Allarme Totale",
+        "Inserimento Allarme In Casa"
+    ],
+    "Anyware Services": [
+        "Stop Intrusion Alert"
+    ],
+    "Apilio": [
+        "Update a variable in Apilio to true",
+        "Initiate a logicblock evaluation in Apilio",
+        "Update a variable in Apilio to false",
+        "Update a numeric variable in Apilio",
+        "Toggle a boolean variable on Apilio"
+    ],
+    "Aqara Home for US": [
+        "Turns on/off the light"
+    ],
+    "Aquanta": [
+        "Set Boost",
+        "Set Away"
+    ],
+    "Arlo": [
+        "Arm",
+        "Start recording",
+        "Disarm"
+    ],
+    "Asana": [
+        "Create task"
+    ],
+    "Asuka IoT": [
+        "Switch on device",
+        "Turn on pre-set mode"
+    ],
+    "Atmoph": [
+        "Show clock",
+        "Hide weather forecast",
+        "Change view",
+        "Show today's events",
+        "Show calendar",
+        "Turn on",
+        "Show weather forecast",
+        "Turn off",
+        "Hide calendar"
+    ],
+    "Aura Air": [
+        "Change Device Mode"
+    ],
+    "Automate Shades": [
+        "Activate scene",
+        "Move or tilt shade"
+    ],
+    "Automate Shades V2": [
+        "Activate scene",
+        "Move or tilt shade",
+        "Activate room"
+    ],
+    "Awair": [
+        "Control an Awair Glow switch"
+    ],
+    "BDR Thermea Group": [
+        "Set temperature",
+        "Set mode"
+    ],
+    "BG Home": [
+        "Turns device on or off"
+    ],
+    "BOCCO": [
+        "Speak by BOCCO"
+    ],
+    "BOND": [
+        "Turn off device",
+        "Turn on device"
+    ],
+    "BOSMA": [
+        "Trigger Device Siren",
+        "Switch Security Mode",
+        "Lock the Aegis Smart Lock"
+    ],
+    "Bbox Miami": [
+        "Send a message to your Bbox Miami",
+        "Display the name of the TV program",
+        "Change the volume on your Bbox Miami"
+    ],
+    "Beeminder": [
+        "Add datapoint",
+        "Charge me"
+    ],
+    "BeoLiving Intelligence": [
+        "Activate a scene"
+    ],
+    "Bernafon": [
+        "Play the text to speech",
+        "Set a program"
+    ],
+    "Beseye": [
+        "Activate your camera"
+    ],
+    "Bitly": [
+        "Add a bitlink"
+    ],
+    "Bitmark": [
+        "Issue bitmark"
+    ],
+    "Blink": [
+        "Arm system",
+        "Disarm system"
+    ],
+    "Blink (Europe)": [
+        "Arm system",
+        "Disarm system"
+    ],
+    "Blue by ADT": [
+        "Arm system",
+        "Turn on a light"
+    ],
+    "BlueLink Smart Connect": [
+        "Change Fan Mode",
+        "Change Heat Setpoint",
+        "Change Cool Setpoint"
+    ],
+    "Box": [
+        "Upload file from URL",
+        "Append to a text file",
+        "Create a text file"
+    ],
+    "Boxcar 2": [
+        "Send a notification with an image",
+        "Send a notification"
+    ],
+    "Brilliant Nexus": [
+        "Set actions",
+        "Set Air Conditioning",
+        "Set Other Devices status",
+        "Set Light status",
+        "Control television remote"
+    ],
+    "Brilliant Smart": [
+        "Turn on",
+        "Activate Scene"
+    ],
+    "BroadLink": [
+        "Adjust volume",
+        "Turn device on or off",
+        "Set temperature",
+        "Set channel",
+        "Mute adjustment",
+        "Adjust channel"
+    ],
+    "Buffer": [
+        "Add to Buffer",
+        "Add photo to Buffer"
+    ],
+    "Caavo": [
+        "Mute Caavo",
+        "Show notification on Caavo",
+        "Turn off Caavo"
+    ],
+    "Caleo": [
+        "Set new mode",
+        "Set temperature"
+    ],
+    "CallMeBot Phone Call": [
+        "Make Telegram Phone Call"
+    ],
+    "Camio": [
+        "Turn off motion notifications",
+        "Turn on motion notifications",
+        "Start recording",
+        "Stop recording"
+    ],
+    "Chatwork": [
+        "Post a message"
+    ],
+    "ClickSend SMS": [
+        "Send SMS"
+    ],
+    "Cloud Intelligence": [
+        "Toggle light power switch on or off",
+        "Change light brightness",
+        "Toggle outlet power switch on or off",
+        "Toggle aroma diffuser power switch on or off"
+    ],
+    "CloudRain Smart Garden Irrigation": [
+        "Start irrigation in zone",
+        "Stop irrigation in zone"
+    ],
+    "Confio": [
+        "Set scene"
+    ],
+    "Connector": [
+        "Open blind",
+        "Activate scene",
+        "Close blind",
+        "Open the blind to a certain position"
+    ],
+    "Connexoon": [
+        "Launch a Connexoon mode"
+    ],
+    "Connexoon Asia & Oceania": [
+        "Launch a Connexoon scenario"
+    ],
+    "D-Link Wi-Fi Router": [
+        "Turn Wi-Fi off",
+        "Turn Wi-Fi on",
+        "Guest Wi-Fi off"
+    ],
+    "Daikin Online Controller": [
+        "Turn AC unit off",
+        "Enable/Disable Holiday mode",
+        "Turn AC unit on",
+        "Enable/Disable Econo mode"
+    ],
+    "Danalock": [
+        "Lock door",
+        "Unlock door"
+    ],
+    "Das Keyboard Q": [
+        "Create a Signal for Q Device (one zone)"
+    ],
+    "Dawn House": [
+        "Flat"
+    ],
+    "Day One": [
+        "Create Journal Entry"
+    ],
+    "Delicious": [
+        "Add a public bookmark",
+        "Add a private bookmark"
+    ],
+    "Diigo": [
+        "Add a public bookmark",
+        "Add a private bookmark"
+    ],
+    "Discord": [
+        "Post a message to a channel",
+        "Post a rich message to a channel"
+    ],
+    "Domino's": [
+        "Place my Domino's Easy Order"
+    ],
+    "Dozens": [
+        "Save"
+    ],
+    "Dropbox": [
+        "Add file from URL",
+        "Create a text file",
+        "Append to a text file",
+        "Move file or folder"
+    ],
+    "EZVIZ": [
+        "Toggle Sleep mode",
+        "Toggle alarm notification",
+        "Toggle Privacy mode"
+    ],
+    "EasyFTP": [
+        "Upload File"
+    ],
+    "Eight": [
+        "Turn off alarm",
+        "Turn on warming"
+    ],
+    "Email": [
+        "Send me an email"
+    ],
+    "Email Digest": [
+        "Add to weekly email digest",
+        "Add to daily email digest"
+    ],
+    "Energenie Mi|Home": [
+        "Power off device",
+        "Power on device",
+        "Power off group",
+        "Power on group"
+    ],
+    "Epion": [
+        "Set brightness"
+    ],
+    "Ergomotion Smart Bed": [
+        "Flat",
+        "TV"
+    ],
+    "Evernote": [
+        "Append to note",
+        "Create a note",
+        "Create image note from URL",
+        "Create a link note",
+        "Append a to-do to note",
+        "Create an audio note from URL"
+    ],
+    "FIBARO": [
+        "Run scene",
+        "Turn on",
+        "Turn off"
+    ],
+    "FL-1000 Leak Detector": [
+        "Reset Alarms",
+        "Set Valve State",
+        "Change Schedule Mode"
+    ],
+    "FUJITSU GENERAL LIMITED": [
+        "Set Operation_Mode and Temperature"
+    ],
+    "Facebook Pages": [
+        "Create a link post",
+        "Create a status message",
+        "Upload a photo from URL"
+    ],
+    "Fanimation": [
+        "Turn a device on or off"
+    ],
+    "Feedly": [
+        "Add a new source",
+        "Save an article for later",
+        "Add an article to a personal board"
+    ],
+    "Festina Watches": [
+        "Send a notification to your Festina watch"
+    ],
+    "Fing": [
+        "Pause Internet access"
+    ],
+    "Fitbit": [
+        "Log your weight"
+    ],
+    "Fleep": [
+        "Send message"
+    ],
+    "Flickr": [
+        "Upload public photo from URL"
+    ],
+    "FollowUp.cc": [
+        "Schedule a reminder"
+    ],
+    "Futurehome": [
+        "Turn on device",
+        "Turn off device",
+        "Run shortcut"
+    ],
+    "GARDENA smart system": [
+        "ALL VALVES: stop watering",
+        "VALVE: stop watering",
+        "POWER: switch on for some time",
+        "VALVE: start watering",
+        "MOWER: park until further notice",
+        "MOWER: skip this mowing cycle",
+        "MOWER: resume automatic operation"
+    ],
+    "GE Appliances Cooking": [
+        "Turn off oven",
+        "Set oven to sabbath mode"
+    ],
+    "GE Appliances Dryer": [
+        "Extend tumble"
+    ],
+    "GE Appliances GeoSpring\u2122": [
+        "Set operating mode",
+        "Set temperature",
+        "Set vacation mode"
+    ],
+    "GE Appliances Refrigerator": [
+        "Set refrigerator to sabbath mode",
+        "Change temperature setpoints"
+    ],
+    "GE Appliances Window AC": [
+        "Set target temperature",
+        "Turn on AC",
+        "Set AC mode",
+        "Turn off AC"
+    ],
+    "GO": [
+        "Play the text to speech"
+    ],
+    "Garadget": [
+        "Close door",
+        "Open door"
+    ],
+    "GarageWiFi & Gates": [
+        "Close door",
+        "Open door"
+    ],
+    "Garageio": [
+        "Close garage door",
+        "Open garage door"
+    ],
+    "Genius Hub": [
+        "Override a 'radiator' zone",
+        "Override an 'on / off' zone",
+        "Override a 'underfloor' zone"
+    ],
+    "Gewiss Smart Home IoT": [
+        "Execute a Scenario",
+        "Execute Any Command"
+    ],
+    "Gideon Smart Home": [
+        "Launch Scenario"
+    ],
+    "Gira Smart Home": [
+        "Switch on",
+        "Set brightness level"
+    ],
+    "GitHub": [
+        "Create an issue"
+    ],
+    "Glance clock": [
+        "Show notice",
+        "Show app",
+        "Snooze alarm"
+    ],
+    "Gmail": [
+        "Send an email",
+        "Send yourself an email"
+    ],
+    "Gogogate": [
+        "Close door",
+        "Open door"
+    ],
+    "Google Calendar": [
+        "Quick add event",
+        "Create a detailed event"
+    ],
+    "Google Contacts": [
+        "Create new contact"
+    ],
+    "Google Docs": [
+        "Append to a document",
+        "Create a document"
+    ],
+    "Google Drive": [
+        "Upload file from URL"
+    ],
+    "Google Sheets": [
+        "Add row to spreadsheet",
+        "Update cell in spreadsheet"
+    ],
+    "Google Tasks": [
+        "Add task to a list"
+    ],
+    "Google Wifi": [
+        "Prioritize Device",
+        "Pause Device",
+        "Unpause Device"
+    ],
+    "Govee Home": [
+        "Turns on/off",
+        "Set light brightness",
+        "Set light color"
+    ],
+    "GroupLotse": [
+        "Send a message to GroupLotse interface"
+    ],
+    "GroupMe": [
+        "Post a message to group"
+    ],
+    "HELLA ONYX": [
+        "Control lights",
+        "Move blinds"
+    ],
+    "Hager IoT": [
+        "Switch on",
+        "Switch off"
+    ],
+    "Harmony": [
+        "End activity",
+        "Start activity"
+    ],
+    "Harvest": [
+        "Create task in project"
+    ],
+    "Heatmiser": [
+        "Cancel Standby Mode",
+        "Set Standby Mode",
+        "Set Temperature",
+        "Turn neoPlug on",
+        "Set Away Mode",
+        "Boost Timer",
+        "Set temperature hold",
+        "Set Home Mode"
+    ],
+    "Heatzy": [
+        "Turn off",
+        "Set manual mode",
+        "Set eco mode",
+        "Set heat mode",
+        "Set cool mode",
+        "Set auto mode",
+        "Deactivate the child lock"
+    ],
+    "Histre": [
+        "Create note"
+    ],
+    "Hive Active Heating\u2122 - UK and Europe": [
+        "Set the thermostat to schedule",
+        "Boost hot water",
+        "Turn off thermostat",
+        "Set mode to manual at a specific temperature",
+        "Boost heating",
+        "Set thermostat to a specific temperature in current mode"
+    ],
+    "Hive Active Light\u2122": [
+        "Turn off light for a specific duration",
+        "Turn on light for a specific duration",
+        "Toggle light on/off"
+    ],
+    "Hive Active Plug\u2122": [
+        "Turn on plug for a specific duration",
+        "Toggle plug on or off",
+        "Turn off plug for a specific duration"
+    ],
+    "Hive View": [
+        "Turn on Hive View monitoring",
+        "Turn off Hive View monitoring"
+    ],
+    "Hive View Outdoor": [
+        "Outdoor Monitoring On",
+        "Outdoor Monitoring Off"
+    ],
+    "Home Connect Coffee Machine": [
+        "Turn off coffee machine",
+        "Turn on coffee machine",
+        "Start coffee program",
+        "Start coffee world program",
+        "Start coffee milk mix program"
+    ],
+    "Home Connect Dishwasher": [
+        "Start program",
+        "Turn on dishwasher",
+        "Start selected program",
+        "Turn off dishwasher"
+    ],
+    "Home Connect Dryer": [
+        "Pause program",
+        "Start automatic program",
+        "Select Connected Dry program recommendation",
+        "Start time program",
+        "Start selected program",
+        "Turn off dryer"
+    ],
+    "Home Connect Fridge Freezer": [
+        "Activate refrigerator Super Cooling mode",
+        "Set freezer temperature",
+        "Activate Vacation mode",
+        "Activate freezer Super Freezing mode",
+        "Deactivate Eco mode",
+        "Set refrigerator temperature",
+        "Activate Fresh mode",
+        "Activate Eco mode",
+        "Deactivate Vacation Mode",
+        "Deactivate Fresh mode"
+    ],
+    "Home Connect Hood": [
+        "Turn off hood",
+        "Turn off functional light",
+        "Turn on functional light",
+        "Turn on ambient light",
+        "Turn on hood"
+    ],
+    "Home Connect Oven": [
+        "Turn off oven",
+        "Preheat oven",
+        "Turn on oven",
+        "Start heating mode"
+    ],
+    "Home Connect Roxxter": [
+        "Pause program",
+        "Resume program",
+        "Change cleaning mode"
+    ],
+    "Home Connect Washer": [
+        "Start program",
+        "Pause program"
+    ],
+    "Home Connect Wine Cooler": [
+        "Set compartment temperature"
+    ],
+    "HomeSeer": [
+        "Turn on a device",
+        "Run a HomeSeer system event",
+        "Turn off a device",
+        "Change a thermostat's operating mode to off",
+        "Change a thermostat's operating mode to cool",
+        "Dim a device",
+        "Change a thermostat's operating mode to auto",
+        "Unlock a door lock",
+        "Change a thermostat's cool set-point",
+        "Lock a door lock",
+        "Change a thermostat's heat set-point",
+        "Change a thermostat's operating mode to heat"
+    ],
+    "Homey": [
+        "Let Homey speak",
+        "Start a Flow",
+        "Start a Flow with Tags"
+    ],
+    "Honeywell Home": [
+        "Set temperature to a permanent hold",
+        "Set fan to on, auto or circulate",
+        "Change my thermostat setpoint temperature",
+        "Arm my Honeywell Home Smart Home Security"
+    ],
+    "Honeywell Single-zone Thermostat": [
+        "Set a zone temperature",
+        "Enable quick action",
+        "Disable a quick action"
+    ],
+    "Honeywell Total Connect Comfort": [
+        "Set temperature for a period of time",
+        "Set fan to on or auto",
+        "Set temperature to a permanent hold",
+        "Resume programmed schedule"
+    ],
+    "Honeywell evohome": [
+        "Enable a quick action",
+        "Set a zone temperature",
+        "Disable a quick action",
+        "Turn hot water on",
+        "Turn hot water off"
+    ],
+    "Hopscotch Social Media Management": [
+        "Create a new published post",
+        "Create a new scheduled post",
+        "Retweet a tweet"
+    ],
+    "Hubitat": [
+        "Turn off a device",
+        "Close a device",
+        "Lock a device",
+        "Change Mode",
+        "Turn on a device",
+        "Dim a device",
+        "Open a device"
+    ],
+    "Hunter Douglas PowerView": [
+        "Turn on all Schedules",
+        "Activate Scene",
+        "Activate Multiple Room Scene",
+        "Turn off all Schedules"
+    ],
+    "Husqvarna Automower\u00ae": [
+        "Park Automower\u00ae until next scheduled start",
+        "Park Automower\u00ae for a while",
+        "Park Automower\u00ae until further notice",
+        "Resume automatic operation",
+        "Pause Automower\u00ae",
+        "Play Happy Birthday",
+        "Start Automower\u00ae"
+    ],
+    "INSTAR": [
+        "Turn off Cloud alarm email",
+        "Set the alarm area sensitivity",
+        "Switch alarm areas",
+        "Turn off motion detection",
+        "Turn on Cloud alarm email",
+        "Alarm trigger and video upload",
+        "Receive a Cloud status email",
+        "Turn on alarm email",
+        "Turn on motion detection",
+        "Turn camera to a preset position",
+        "Turn off alarm email"
+    ],
+    "Imwork": [
+        "Send Message",
+        "Send Image"
+    ],
+    "Indego Connect": [
+        "Mow",
+        "Dock",
+        "Pause"
+    ],
+    "Inoreader": [
+        "Subscribe to feed",
+        "Save any web page",
+        "Mark subscription as read",
+        "Mark all articles as read"
+    ],
+    "Instapaper": [
+        "Save item"
+    ],
+    "Intuiface": [
+        "Send message"
+    ],
+    "Invoxia Triby": [
+        "Play preset media on specified Triby IO",
+        "Send a message to every Triby IO",
+        "Start a timer on specified Triby IO",
+        "Send a message to specified Triby IO",
+        "Start a call from specified Triby IO",
+        "[Advanced] Execute a script on specified Triby IO"
+    ],
+    "Ivideon": [
+        "Turn camera on",
+        "Turn notifications off",
+        "Turn camera off"
+    ],
+    "Jaguar Watches": [
+        "Send a notification to your Jaguar watch"
+    ],
+    "Kronaby": [
+        "Send a notification to your Kronaby watch"
+    ],
+    "LIFX": [
+        "Change color of lights",
+        "Blink lights",
+        "Turn lights on",
+        "Toggle lights on/off",
+        "Breathe lights",
+        "Turn lights off",
+        "Activate scene"
+    ],
+    "LINE": [
+        "Send message"
+    ],
+    "LIVISI Home": [
+        "Set State to 'Yes'",
+        "Set State to 'No'"
+    ],
+    "LaMetric": [
+        "Update Indicator App",
+        "Display Notification",
+        "Set Clock Face",
+        "Display Sticky Notification",
+        "Activate App",
+        "Start Radio"
+    ],
+    "Leeo": [
+        "Turn light off",
+        "Turn light on"
+    ],
+    "Lennox iComfort": [
+        "Set Fan to ON",
+        "Increase Indoor Temperature",
+        "Set Fan to AUTO"
+    ],
+    "Levoit Air Purifier": [
+        "Turn on air purifier",
+        "Change fan speed",
+        "Turn off air purifier",
+        "Change mode"
+    ],
+    "Lexi": [
+        "Lexi Device On",
+        "Lexi Device Off",
+        "Lexi Group Off",
+        "Lexi Group Scene On",
+        "Lexi Group On",
+        "Lexi All Devices On",
+        "Lexi All Devices Off"
+    ],
+    "LightwaveRF Events": [
+        "Start an event"
+    ],
+    "LightwaveRF Heating": [
+        "Set TRV Position 5",
+        "Set temperature",
+        "Electric Switch Off"
+    ],
+    "LightwaveRF Lighting": [
+        "Turn off light",
+        "Dim a light",
+        "Turn on light"
+    ],
+    "LightwaveRF Power": [
+        "Lock device",
+        "Open a relay",
+        "Switch on a socket",
+        "Switch off a socket",
+        "Close a relay",
+        "Fully lock a device"
+    ],
+    "Link Shades": [
+        "Go to percent",
+        "Close shade",
+        "Open shade"
+    ],
+    "LinkJapan eHome": [
+        "Turn device on or off",
+        "Change mode"
+    ],
+    "LinkedIn": [
+        "Share a link",
+        "Share an update"
+    ],
+    "Litter-Robot by Whisker": [
+        "Litter Robot Actions"
+    ],
+    "LiveSmart": [
+        "Execute a rule"
+    ],
+    "Livy": [
+        "Turn on Livy Protect"
+    ],
+    "Logitech Circle": [
+        "Turn off camera",
+        "Start recording",
+        "Enable recording",
+        "Turn on camera",
+        "Disable recording"
+    ],
+    "Lotus Watches": [
+        "Send a notification to your Lotus watch"
+    ],
+    "Lovebox": [
+        "Send a message"
+    ],
+    "Lutron Cas\u00e9ta and RA2 Select": [
+        "Activate scene",
+        "Set light level",
+        "Set shade position"
+    ],
+    "Lytmi": [
+        "Turn on",
+        "Set light brightness",
+        "Set light scene",
+        "Start Heat Mode",
+        "Set AC temperature",
+        "Turn off oscillation function of fan",
+        "Turn off",
+        "Set light color",
+        "Activate Scene"
+    ],
+    "M2M Services": [
+        "Disarm your system"
+    ],
+    "MESH": [
+        "Send an event to MESH app"
+    ],
+    "MSmartHome AC": [
+        "Turn on/off the air conditioner",
+        "Turn on/off the ECO mode",
+        "Set Temperature",
+        "Set fan speed"
+    ],
+    "MSmartHome Dehumidifier": [
+        "Turn on/off the dehumidifier"
+    ],
+    "Maestro by Stelpro": [
+        "Set home status",
+        "Run activity",
+        "Set setpoint"
+    ],
+    "MagicHue": [
+        "Turn lights off",
+        "Turn lights on",
+        "Toggle lights on/off",
+        "Blink lights",
+        "Change color",
+        "Activate Scene"
+    ],
+    "MagicLight WiFi": [
+        "Blink lights",
+        "Change color",
+        "Turn lights on",
+        "Turn lights off",
+        "Toggle lights on/off"
+    ],
+    "Mailchimp": [
+        "Add new subscriber",
+        "Unsubscribe email address"
+    ],
+    "Mapeheat Thermo Connect": [
+        "Set thermostat mode",
+        "Set temperature"
+    ],
+    "MeisterTask": [
+        "Create a task"
+    ],
+    "Meross": [
+        "Turn off",
+        "Change color temperature",
+        "Change color",
+        "Turn on",
+        "Activate a scene",
+        "Close garage",
+        "Change brightness"
+    ],
+    "Microsoft Teams": [
+        "Post to channel"
+    ],
+    "Microsoft To Do": [
+        "Create task in task list"
+    ],
+    "Misfit": [
+        "Log your weight",
+        "Log a photo of your meal"
+    ],
+    "Mitsubishi Electric kumo cloud": [
+        "Turn off",
+        "Turn on"
+    ],
+    "Monzo": [
+        "Move money into a pot",
+        "Move money out of a pot"
+    ],
+    "Moodo & Moodo AIR": [
+        "Start Moodo",
+        "Stop Moodo",
+        "Switch Moodo AIR into Diffuser mode",
+        "Switch Moodo AIR into Purifier mode",
+        "Kick-start Moodo"
+    ],
+    "Moonside Light": [
+        "Brighten lights to 100 percent brightness",
+        "Set lights to raining scene",
+        "Set lights to Youtube red"
+    ],
+    "Musaic": [
+        "Play audio from URL",
+        "Play radio preset",
+        "Mute",
+        "Speak to me"
+    ],
+    "Musixmatch": [
+        "Add a track to favorites"
+    ],
+    "My Leviton": [
+        "Toggle a Leviton Device",
+        "Run a Leviton Scene",
+        "Turn on a Leviton Room",
+        "Run a Leviton Activity",
+        "Turn off a Leviton Room"
+    ],
+    "MyCurtains": [
+        "Move a curtain"
+    ],
+    "MyMilan": [
+        "MyMilan Scenes",
+        "Lighting"
+    ],
+    "MyQ": [
+        "Close door",
+        "Turn on light",
+        "Turn off light"
+    ],
+    "Myfox HomeControl": [
+        "Play a scenario",
+        "Arm your system",
+        "Disable your system",
+        "Partially arm your system"
+    ],
+    "Mysa Thermostat": [
+        "Change the setpoint"
+    ],
+    "NIBE Uplink": [
+        "Set to vacation mode",
+        "Set to home mode",
+        "Boost hot water production"
+    ],
+    "Nanoleaf Smarter Series": [
+        "Change Nanoleaf Light Panels or Canvas color",
+        "Activate a scene",
+        "Turn on Nanoleaf smart light",
+        "Turn off Nanoleaf smart light",
+        "Notify you using your Nanoleaf Light Panels or Canvas"
+    ],
+    "Narro": [
+        "Submit an article"
+    ],
+    "Nature Remo": [
+        "Turn off air conditioner",
+        "Turn on air conditioner",
+        "Control home appliances"
+    ],
+    "Neato": [
+        "Pause cleaning",
+        "Dock",
+        "Start cleaning",
+        "Stop cleaning"
+    ],
+    "Nefit Easy": [
+        "Set room temperature",
+        "Increase room temperature",
+        "Decrease room temperature",
+        "Set manual mode"
+    ],
+    "Nest Thermostat": [
+        "Set temperature",
+        "Turn on fan for 15 minutes",
+        "Set temperature range"
+    ],
+    "NetHome Plus AC": [
+        "Turn on/off the  air conditioner",
+        "Set Fan speed",
+        "Set Temperature"
+    ],
+    "Netatmo Security": [
+        "Set home empty"
+    ],
+    "Netatmo Thermostat": [
+        "Set to manual mode",
+        "Set to away mode with a time limit",
+        "Switch schedule",
+        "Go back to schedule",
+        "Set to away mode",
+        "Turn thermostat off (Hidden)",
+        "Set to frost-guard mode"
+    ],
+    "Netro": [
+        "report weather",
+        "do not water",
+        "set device status",
+        "stop water",
+        "water"
+    ],
+    "NewsBlur": [
+        "Share a story",
+        "Add a new site"
+    ],
+    "Nexia": [
+        "Run a Nexia automation"
+    ],
+    "Nexx": [
+        "Open door",
+        "Close door"
+    ],
+    "Nice": [
+        "Open door",
+        "Close door"
+    ],
+    "Niko Home Control": [
+        "Close motor device",
+        "Turn device on",
+        "Activate Routine",
+        "Set motor device position"
+    ],
+    "Nimbus Note": [
+        "Create note"
+    ],
+    "Noon Home": [
+        "Turn on room",
+        "Change scene"
+    ],
+    "Noonlight": [
+        "Trigger alarm",
+        "Trigger alarm with address"
+    ],
+    "Notifications": [
+        "Send a notification from the IFTTT app",
+        "Send a rich notification from the IFTTT app"
+    ],
+    "Notify My Echo": [
+        "Send Alexa Notification"
+    ],
+    "Notion.so": [
+        "Create a page",
+        "Add item to a To-Do list"
+    ],
+    "Nuki Opener": [
+        "Deactivate Continuous Mode",
+        "Activate Ring to Open",
+        "Activate Continuous Mode"
+    ],
+    "Nuki Smart Lock": [
+        "Lock door",
+        "Lock 'n' Go door",
+        "Unlock door",
+        "Open door",
+        "Deactivate Auto Lock",
+        "Activate Auto Lock"
+    ],
+    "ORBneXt": [
+        "Change color",
+        "Flash alert"
+    ],
+    "OSUM": [
+        "Execute Scene",
+        "Open",
+        "Switch On"
+    ],
+    "OSUM SMART": [
+        "Execute Scene",
+        "Close",
+        "Switch On",
+        "Open",
+        "Switch Off",
+        "Set Level to",
+        "Door Open"
+    ],
+    "Oco Camera": [
+        "Start recording",
+        "Turn notifications on",
+        "Turn notifications off",
+        "Turn camera on",
+        "Turn camera off"
+    ],
+    "OneDrive": [
+        "Create text file",
+        "Add file from URL",
+        "Append to a text file"
+    ],
+    "OneNote": [
+        "Create a page",
+        "Create a page with an image",
+        "Create a page from a link"
+    ],
+    "Optoma": [
+        "Turn on/off LED light of my projector",
+        "Turn on/off my projector"
+    ],
+    "Orion - Voice for Teams": [
+        "Send a voice message"
+    ],
+    "Orro": [
+        "Turn ON"
+    ],
+    "Oticon": [
+        "Play the text to speech (iPhone)",
+        "Set a program"
+    ],
+    "PAVLOK": [
+        "Vibrate",
+        "Zap",
+        "Beep"
+    ],
+    "PIXIE PLUS": [
+        "Active Scene"
+    ],
+    "Panasonic Home Navigation": [
+        "\u6e96\u5099\u3057\u305f\u30b7\u30fc\u30f3\u3092\u30ad\u30e3\u30f3\u30bb\u30eb\u3059\u308b",
+        "\u30b7\u30fc\u30f3\u306e\u5b9f\u884c\u3092\u6e96\u5099\u3059\u308b",
+        "\u6e96\u5099\u3057\u305f\u30b7\u30fc\u30f3\u3092\u5b9f\u884c\u3059\u308b"
+    ],
+    "Particle": [
+        "Call a function",
+        "Publish an event"
+    ],
+    "Philips Air Purifier": [
+        "Power on"
+    ],
+    "Philips HearLink": [
+        "Set a program",
+        "Play the text to speech"
+    ],
+    "Philips Hue": [
+        "Turn on lights",
+        "Turn off lights",
+        "Turn on color loop",
+        "Dim lights",
+        "Change color",
+        "Blink lights",
+        "Change color from image",
+        "Change to random color",
+        "Set a scene in a room",
+        "Toggle lights on/off"
+    ],
+    "Phone Call (US only)": [
+        "Call my phone"
+    ],
+    "Phyn": [
+        "Turn water on",
+        "Turn water off"
+    ],
+    "Pinboard": [
+        "Add a public bookmark",
+        "Add a private bookmark",
+        "Add read later bookmark"
+    ],
+    "Pixoo-64": [
+        "Display Amazon Music"
+    ],
+    "Planex": [
+        "Turn off alerts"
+    ],
+    "Pocket": [
+        "Save for later"
+    ],
+    "Powered by Viva": [
+        "Turn device on",
+        "Turn device off"
+    ],
+    "Pryv": [
+        "Add a note",
+        "Add a photo",
+        "Add a numerical value",
+        "Add a file"
+    ],
+    "Purei9": [
+        "Send command"
+    ],
+    "Pushbullet": [
+        "Push a note",
+        "Push an address",
+        "Push a link",
+        "Push a file"
+    ],
+    "Pushover": [
+        "Send a Pushover notification"
+    ],
+    "Pushsafer": [
+        "Pushsafer.com"
+    ],
+    "QNAP": [
+        "Play any music station playlist on QNAP Device",
+        "Download file from URL",
+        "Control music on QNAP Device via Music Station",
+        "Append text to file",
+        "Set user profile picture on QNAP NAS",
+        "Control device power",
+        "Control surveillance cameras of QNAP Device via Surveillance Station"
+    ],
+    "Qapital": [
+        "Save toward a goal"
+    ],
+    "RATOC Remocon": [
+        "\u7167\u660e\u306e\u64cd\u4f5c",
+        "\u30a8\u30a2\u30b3\u30f3\u306e\u64cd\u4f5c",
+        "\u30ab\u30fc\u30c6\u30f3\u306e\u64cd\u4f5c",
+        "\u6a5f\u5668\u306e\u64cd\u4f5c"
+    ],
+    "Rachio": [
+        "Start a zone",
+        "Start watering time",
+        "Stop watering",
+        "Skip watering time",
+        "Rain delay"
+    ],
+    "RainMachine": [
+        "Resume all watering",
+        "Pause all watering",
+        "Stop all watering",
+        "Snooze",
+        "Start a zone",
+        "Start a program"
+    ],
+    "Raindrop.io": [
+        "Create a new bookmark"
+    ],
+    "Remember The Milk": [
+        "Create a new task"
+    ],
+    "RemoteLync": [
+        "Disarm location",
+        "Arm location"
+    ],
+    "RescueTime": [
+        "End current FocusTime session",
+        "Log offline time",
+        "Log a highlight event",
+        "Start a FocusTime session"
+    ],
+    "RoosterMoney": [
+        "Boost",
+        "Pot to pot transfer"
+    ],
+    "Routee": [
+        "Send SMS"
+    ],
+    "SAFE By HUB6": [
+        "Secure your home"
+    ],
+    "SAUTER Cozytouch": [
+        "Changer la temp\u00e9rature de consigne de vos radiateurs connect\u00e9s"
+    ],
+    "SL-BUS Technology": [
+        "Switch On",
+        "Door Open",
+        "Execute Scene",
+        "Switch Off",
+        "Set Level to",
+        "Open",
+        "Close"
+    ],
+    "SMS": [
+        "Send me an SMS"
+    ],
+    "SOMA Smart Home": [
+        "Set shade position"
+    ],
+    "Salesforce": [
+        "Advanced: Insert a Record",
+        "Post Chatter message",
+        "Post Chatter file",
+        "Post Chatter link"
+    ],
+    "Samsung Air Purifier": [
+        "Turn on the air purifier"
+    ],
+    "Samsung Robot Vacuum": [
+        "Start vacuum cleaning",
+        "End vacuum cleaning"
+    ],
+    "Samsung Room Air Conditioner": [
+        "Turn on the air conditioner",
+        "Turn off the air conditioner"
+    ],
+    "Samsung Washer": [
+        "Start wash cycle",
+        "Finish wash cycle"
+    ],
+    "Scout Alarm": [
+        "Turn on siren",
+        "Disarm a mode",
+        "Disarm all modes",
+        "Turn off siren",
+        "Start arming a mode",
+        "Chirp"
+    ],
+    "Sengled": [
+        "Turn on lights",
+        "Turn off lights",
+        "Change color",
+        "Toggle lights on/off"
+    ],
+    "Sensibo": [
+        "Turn A/C on",
+        "Turn A/C off"
+    ],
+    "Sesame by CANDY HOUSE": [
+        "Open Sesame",
+        "Close Sesame"
+    ],
+    "ShopYourWay": [
+        "Add item to a specific catalog",
+        "Add item to your feed"
+    ],
+    "SimCam": [
+        "Turn On Privacy Mode",
+        "Turn Off Privacy Mode"
+    ],
+    "SkyBell HD": [
+        "Record video",
+        "Turn indoor chime off",
+        "Turn indoor chime on",
+        "Change LED color"
+    ],
+    "SkylinkNet": [
+        "Set hub mode",
+        "Turn device ON",
+        "Close garage door (with SkylinkNet Hub)",
+        "Turn device OFF",
+        "Toggle device"
+    ],
+    "Slack": [
+        "Post to channel"
+    ],
+    "Smappee": [
+        "Turn on plug",
+        "Turn off plug"
+    ],
+    "SmarTap Shower": [
+        "Start Shower"
+    ],
+    "Smart Home Solution": [
+        "Turn device off",
+        "Turn device on"
+    ],
+    "Smart Life": [
+        "Activate Scene",
+        "Turn on",
+        "Turn off",
+        "Set light brightness",
+        "Set light color"
+    ],
+    "SmartLiving Home Automation": [
+        "Door Open",
+        "Set Level to",
+        "Switch On",
+        "Switch Off",
+        "Execute Scene"
+    ],
+    "SmartThings": [
+        "Switch on",
+        "Activate siren/strobe",
+        "Unlock",
+        "Switch off",
+        "Lock",
+        "Deactivate siren/strobe"
+    ],
+    "Smarter": [
+        "Boil the kettle",
+        "Brew coffee"
+    ],
+    "Smitch": [
+        "Turn off motion detection",
+        "Turn off mic",
+        "Turn on motion detection",
+        "Turn on sound detection",
+        "Turn on camera",
+        "Change bulb colour",
+        "Turn on scenes",
+        "Turn on mic"
+    ],
+    "Somfy Connected Thermostat": [
+        "Set to a mode",
+        "Set temperature"
+    ],
+    "Somfy Protect": [
+        "Security mode",
+        "Control camera shutter",
+        "Sound the siren"
+    ],
+    "Somfy myLink": [
+        "Move connected product",
+        "Play a scene"
+    ],
+    "Sonic": [
+        "Play the text to speech",
+        "Set a program"
+    ],
+    "Sonos": [
+        "Play Favorite",
+        "Pause",
+        "Mute",
+        "Set Volume",
+        "Volume Down",
+        "Volume Up",
+        "Skip to Previous Track",
+        "Play Stream",
+        "Resume",
+        "Skip to Next Track"
+    ],
+    "SoundCloud": [
+        "Upload a public track",
+        "Upload a private track",
+        "Like a track"
+    ],
+    "SpotCam": [
+        "Turn Off SpotCam",
+        "Turn On SpotCam",
+        "Move To Preset Point",
+        "Turn On Alert",
+        "Take a Snapshot and Email It",
+        "Turn Off Alert",
+        "Sound Siren",
+        "Turn On Share Function"
+    ],
+    "Spotify": [
+        "Add track to a playlist",
+        "Start playback",
+        "Save a track",
+        "Pause playback",
+        "Skip track",
+        "Add track to a playlist by TrackID"
+    ],
+    "Stockimo": [
+        "Upload a photo"
+    ],
+    "Strava": [
+        "Create an activity",
+        "Update weight"
+    ],
+    "SurveyMonkey": [
+        "Add new contact to list"
+    ],
+    "Swidget": [
+        "Turn On",
+        "Turn Off"
+    ],
+    "SwitchBot": [
+        "Bot turn on",
+        "Bot turn off",
+        "Bot press",
+        "Control Curtain"
+    ],
+    "THERMOR Cozytouch": [
+        "Changer la temp\u00e9rature de consigne de vos radiateurs connect\u00e9s"
+    ],
+    "TMT Chow": [
+        "Close",
+        "Open",
+        "ChowHub1",
+        "ChowHub3",
+        "ChowHub2"
+    ],
+    "TP-Link Kasa": [
+        "Turn off",
+        "Turn on",
+        "Toggle",
+        "Activate scene",
+        "Change color"
+    ],
+    "TP-Link Router": [
+        "Prioritize Device",
+        "Prioritize Online Activity"
+    ],
+    "TRIGGERcmd": [
+        "Trigger Command"
+    ],
+    "TaHoma": [
+        "Launch a TaHoma scenario"
+    ],
+    "TaHoma Asia & Oceania": [
+        "Launch a Tahoma Bee scene"
+    ],
+    "TaHoma North America": [
+        "Launch a TaHoma scene"
+    ],
+    "Tailwind": [
+        "Close all garage doors",
+        "Close garage door",
+        "Open garage door"
+    ],
+    "Telegram": [
+        "Send message",
+        "Send photo",
+        "Send mp3",
+        "Send video"
+    ],
+    "Telldus Live!": [
+        "Turn off a device",
+        "Turn on a device"
+    ],
+    "Tesco": [
+        "Search for and add product to basket",
+        "Add products to your basket"
+    ],
+    "ThermoSmart": [
+        "Set temperature",
+        "Pause",
+        "Unpause"
+    ],
+    "ThingaOS": [
+        "Turn On/Off device",
+        "Turn On/Off Siren",
+        "Activate Night Mode"
+    ],
+    "TickTick": [
+        "Add a task"
+    ],
+    "Tochie Speaker": [
+        "Convert text to speech"
+    ],
+    "Todoist": [
+        "Create task"
+    ],
+    "Toodledo": [
+        "Add a task",
+        "Add a note"
+    ],
+    "Total Connect 2.0": [
+        "Arm my Honeywell Total Connect security panel"
+    ],
+    "Trane\u00ae Home": [
+        "Run a Trane automation"
+    ],
+    "Trello": [
+        "Create a card"
+    ],
+    "Tumblr": [
+        "Create a link post",
+        "Create an audio post",
+        "Create a photo post"
+    ],
+    "Twitter": [
+        "Post a tweet",
+        "Post a tweet with image",
+        "Update profile picture",
+        "Update bio"
+    ],
+    "Ultraloq": [
+        "Unlock",
+        "Lock"
+    ],
+    "Unforgettable Me": [
+        "Upload to Unforgettable Me"
+    ],
+    "Uplink Remote": [
+        "Arm the security system",
+        "Disarm the security system"
+    ],
+    "VeSync Bulb": [
+        "Change brightness",
+        "Turn off",
+        "Toggle"
+    ],
+    "VeSync Dimmer": [
+        "Change brightness",
+        "Turn off",
+        "Toggle"
+    ],
+    "VeSync Outlet": [
+        "Turn on/off"
+    ],
+    "VeSync Switch": [
+        "Turn on",
+        "Turn off",
+        "Toggle"
+    ],
+    "Verizon Cloud": [
+        "Add file to my Verizon Cloud"
+    ],
+    "Vestaboard": [
+        "Post to Vestaboard"
+    ],
+    "Vimar VIEW": [
+        "Roller shutter control",
+        "Scenario",
+        "Light control"
+    ],
+    "VoIP Calls": [
+        "Call my device"
+    ],
+    "Vybit Push Notifications": [
+        "Send Vyb"
+    ],
+    "WIFIPLUG": [
+        "Turn on",
+        "Turn off",
+        "Blink"
+    ],
+    "Warmup Smart Thermostat": [
+        "Set temperature",
+        "Turn off",
+        "Turn on"
+    ],
+    "Wattio SmartHome": [
+        "POD - Switch off",
+        "AIR - Switch on",
+        "AIR - Switch off",
+        "GATE - Switch all security on",
+        "POD - Switch on",
+        "GATE - Switch all security off",
+        "POD - Toggle on/off"
+    ],
+    "WeBeHome - Security and Smart Home": [
+        "Start Scenario Action Set"
+    ],
+    "WeMo Coffeemaker": [
+        "Brew coffee"
+    ],
+    "WeMo Humidifier": [
+        "Set humidity level"
+    ],
+    "WeMo Insight Switch": [
+        "Turn on",
+        "Turn off",
+        "Toggle on/off",
+        "Turn off then on",
+        "Turn on then off"
+    ],
+    "WeMo Light Switch": [
+        "Turn on",
+        "Toggle on/off",
+        "Turn off",
+        "Turn on then off",
+        "Turn off then on"
+    ],
+    "WeMo Lighting": [
+        "Turn off",
+        "Turn on a group of lights",
+        "Start sleep fader",
+        "Dim the Light",
+        "Turn on",
+        "Set sleep fader for a group of lights",
+        "Turn off a group of lights",
+        "Dim a group of lights"
+    ],
+    "WeMo Maker": [
+        "Turn relay on momentarily",
+        "Turn relay on",
+        "Turn relay off"
+    ],
+    "WeMo Slow Cooker": [
+        "Adjust cooking mode"
+    ],
+    "WeMo Smart Plug": [
+        "Turn on",
+        "Turn off",
+        "Toggle on/off",
+        "Turn off then on",
+        "Turn on then off"
+    ],
+    "Wear OS": [
+        "Send a notification"
+    ],
+    "Webex": [
+        "Post a message to a Spark room",
+        "Post a file to a Spark room"
+    ],
+    "Webhooks": [
+        "Make a web request"
+    ],
+    "Weebly": [
+        "Publish blog post"
+    ],
+    "Welltory": [
+        "Send event",
+        "Send activity"
+    ],
+    "Wemo Air Purifier": [
+        "Set air purifier mode"
+    ],
+    "Wemo Dimmer": [
+        "Change brightness",
+        "Turn on",
+        "Turn off"
+    ],
+    "WiZ": [
+        "Turn on / change light mode",
+        "Activate a scene",
+        "Pulse the light",
+        "Turn off the light",
+        "Dim / Brighten the light"
+    ],
+    "Wink: Aros": [
+        "Turn A/C on",
+        "Turn A/C off"
+    ],
+    "Wink: Nimbus": [
+        "Set dial label"
+    ],
+    "Wink: Pivot Power Genius": [
+        "Turn outlet off",
+        "Turn outlet on",
+        "Toggle on/off"
+    ],
+    "Wink: Shortcuts": [
+        "Activate shortcut"
+    ],
+    "Wireless Tag": [
+        "Disarm motion sensor",
+        "Arm motion sensor",
+        "Beep a tag"
+    ],
+    "Wiser": [
+        "Activate Away mode"
+    ],
+    "Wiser Air": [
+        "Set system mode",
+        "Set temperature",
+        "Set mode"
+    ],
+    "Withings Home": [
+        "Change camera mode"
+    ],
+    "Wolfram Data Drop": [
+        "Add an entry to a databin"
+    ],
+    "WordPress": [
+        "Create a post",
+        "Create a photo post"
+    ],
+    "Wyze": [
+        "Disable motion detection",
+        "Turn bulb on",
+        "Turn off notifications",
+        "Turn plug on",
+        "Turn bulb off",
+        "Turn off device",
+        "Turn on device",
+        "Enable motion detection",
+        "Record a short video clip",
+        "Turn on notifications",
+        "Turn plug off"
+    ],
+    "Xtactor": [
+        "Vibrate on Xtactor"
+    ],
+    "Yardian": [
+        "Start a zone"
+    ],
+    "Yeelight": [
+        "Set scene",
+        "Toggle lights on/off",
+        "Change brightness",
+        "Set brightness",
+        "Change color"
+    ],
+    "YoLink": [
+        "Turn on/off outlet"
+    ],
+    "Z-Ware": [
+        "Turn on a switch",
+        "Set a dimmer",
+        "Set a thermostat to heating mode",
+        "Set a thermostat to cooling mode"
+    ],
+    "Zoho Cliq": [
+        "Post message in Zoho Cliq"
+    ],
+    "Zoho Cliq (Australia)": [
+        "Post message in Zoho Cliq"
+    ],
+    "Zoho Cliq (China)": [
+        "Post message in Zoho Cliq"
+    ],
+    "Zoho Cliq (Europe)": [
+        "Post message in Zoho Cliq"
+    ],
+    "Zoho Cliq (India)": [
+        "Post message in Zoho Cliq"
+    ],
+    "Zoho Notebook": [
+        "Add Text Note",
+        "Create Link Card",
+        "Create Notecard With HTML Content",
+        "Create Image NoteCard"
+    ],
+    "Zuluhood": [
+        "Raise Alarm",
+        "Start Zuluchat"
+    ],
+    "abode": [
+        "Change mode",
+        "Turn on switch",
+        "Quick Action",
+        "Turn off switch"
+    ],
+    "beam": [
+        "Close garage door",
+        "Open garage door"
+    ],
+    "blink(1)": [
+        "Send blink event"
+    ],
+    "coqon": [
+        "Fire rule in coqon"
+    ],
+    "data.world": [
+        "Add file from URL",
+        "Append to a stream",
+        "Sync files and streams"
+    ],
+    "digitalSTROM": [
+        "Execute a command using natural language"
+    ],
+    "domovea": [
+        "Switch off",
+        "Run scene",
+        "Switch on",
+        "Close Shade"
+    ],
+    "eWeLink Smart Home": [
+        "Turn 4-Channel Switch on or off",
+        "Turn 1-Channel Switch on or off",
+        "Turn 1-Channel Plug on or off",
+        "Turn 2-Channel Switch on or off",
+        "Turn 4-Channel Plug on or off",
+        "Open or close electric curtain",
+        "Turn 3-Channel Switch on or off",
+        "Turn 2-Channel Plug on or off",
+        "Turn 3-Channel Plug on or off",
+        "Set brightness for light",
+        "Turn on or off light"
+    ],
+    "ecobee": [
+        "Set thermostat comfort profile until next transition",
+        "Set thermostat comfort profile for X hours",
+        "Turn light switch on",
+        "Resume thermostat program",
+        "Set thermostat hold for X hours",
+        "Set thermostat indefinite hold",
+        "Set thermostat hold until next transition",
+        "Create vacation on thermostat",
+        "Turn light switch off"
+    ],
+    "energeasy connect": [
+        "Launch an action group"
+    ],
+    "iDevices": [
+        "Turn on",
+        "Turn off",
+        "Set thermostat target temperature",
+        "Turn night light on",
+        "Turn night light off",
+        "Adjust brightness"
+    ],
+    "iHome Control": [
+        "Turn plug on or off"
+    ],
+    "iOS Calendar": [
+        "Create a calendar event"
+    ],
+    "iOS Health": [
+        "Log calories consumed",
+        "Log workout",
+        "Log weight",
+        "Log sleep"
+    ],
+    "iOS Photos": [
+        "Add photo to album"
+    ],
+    "iOS Reading List": [
+        "Add item to Reading List"
+    ],
+    "iOS Reminders": [
+        "Add reminder to list"
+    ],
+    "iRobot": [
+        "Start robot",
+        "Dock robot",
+        "Clean by Room",
+        "Resume robot",
+        "Pause robot",
+        "Stop robot"
+    ],
+    "iSecurity+": [
+        "Aim your camera",
+        "Disable camera motion detection",
+        "Enable camera motion detection"
+    ],
+    "iSpy Agent": [
+        "Arm a device"
+    ],
+    "iZone": [
+        "Set zone target temperature"
+    ],
+    "iotty Smart Home": [
+        "Turn on/off/press a Smart Switch"
+    ],
+    "littleBits": [
+        "Set Output Level",
+        "Activate Output",
+        "Deactivate Output"
+    ],
+    "myStrom": [
+        "Toggle myStrom device"
+    ],
+    "myUplink": [
+        "Boost hot water production",
+        "Boost ventilation",
+        "Set smart home mode"
+    ],
+    "mydlink": [
+        "Turn on plug"
+    ],
+    "nVent Nuheat Signature Thermostat": [
+        "Set thermostat mode",
+        "Set temperature",
+        "Set group mode"
+    ],
+    "nomos": [
+        "Switch off",
+        "Switch on"
+    ],
+    "openHAB": [
+        "Send a command"
+    ],
+    "put.io": [
+        "Start a new transfer"
+    ],
+    "reddit": [
+        "Submit a new link",
+        "Submit a new text post"
+    ],
+    "sRemo": [
+        "Send set number to sRemo",
+        "Send Trigger Number to sRemo",
+        "Send signal under set condition"
+    ],
+    "simplehuman": [
+        "Set the brightness"
+    ],
+    "smanos connect": [
+        "Arm away",
+        "Disarm"
+    ],
+    "tado\u00b0 Hot Water": [
+        "Start preparing hot water",
+        "Return to tado\u2060\u00b0 automatic control",
+        "Turn hot water off"
+    ],
+    "tado\u00ba Air Conditioning": [
+        "Turn AC off",
+        "Start Dry Mode",
+        "Start Auto Mode",
+        "Start Cool Mode",
+        "Return to tado\u2060\u00b0 automatic control"
+    ],
+    "tado\u00ba Heating": [
+        "Return to tado\u2060\u00b0 automatic control",
+        "Turn heating off",
+        "Turn heating on"
+    ],
+    "uSign": [
+        "Create a new record"
+    ],
+    "woopla phone calls": [
+        "Call a phone number and play text",
+        "Call me and play text",
+        "Call me and play audio",
+        "Call a phone number and play audio"
+    ]
+}
