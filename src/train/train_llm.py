@@ -1,6 +1,6 @@
 import warnings
 import os
-os.chdir('C:/Users/matti/Desktop/GitHub/tapir')
+
 import wandb
 import huggingface_hub
 
