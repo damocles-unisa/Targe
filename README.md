@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./docs/rule_example.svg" alt="TARGE LOGO" width="250" height="250" style="margin: 0 auto">
 </div>
+
 # IoT Rule Generation with Cross-View Contrastive Learning and Perplexity-Based Ranking
 
 This repository contains the supplementary material for the paper "IoT Rule Generation with Cross-View Contrastive Learning and Perplexity-Based Ranking"
