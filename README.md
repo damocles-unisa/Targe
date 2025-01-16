@@ -16,7 +16,7 @@ directly from natural language user intents. TARGE leverages Large Language Mode
 
 # TARGE Architecture
 <div align="center">
-    <img src="./docs/schema_gen_1.svg" alt="TARGE Architecture"   style="margin: 0 auto">
+    <img src="./docs/schema_gen_1.svg" alt="TARGE Architecture"   style="margin: 0 auto; background-color: white">
 </div>
 
 # Setting Environment
