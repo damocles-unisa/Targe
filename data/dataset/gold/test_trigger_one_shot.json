@@ -1,0 +1,1376 @@
+[
+    {
+        "input":"Tell Alexa to park Automower\u00ae. Say a code phrase to send Automower\u00ae to the charging station until the next scheduled mowing.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.78875166,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Deactivate vacation mode on your fridge freezer when you come back from a vacation. Deactivate vacation mode on your fridge freezer based on the end of a vacation event from your google calendar",
+        "output":"TRIGGER SERVICE: Google Calendar, TRIGGER EVENT: New event from search ends",
+        "score":0.7812162,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"#EnergyChallenge: When Zoom starts a meeting, set fan speed to low on Midea AC.. When Zoom starts a meeting, set fan speed to low on Midea AC.",
+        "output":"TRIGGER SERVICE: Zoom, TRIGGER EVENT: Any scheduled meeting starts",
+        "score":0.75883245,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Every day at 6 PM, add tomorrow's weather report to your calendar. Every day at the time of your choosing (defaults to 6 PM), the weather report for the tomorrow will be added to your iOS Calendar.",
+        "output":"TRIGGER SERVICE: Weather Underground, TRIGGER EVENT: Tomorrow's weather report",
+        "score":0.73959464,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Pause your ThermoSmart with a SMS. If a new SMS sent matches 'Pause', then your ThermoSmart gets paused",
+        "output":"TRIGGER SERVICE: Android SMS, TRIGGER EVENT: New SMS sent matches search",
+        "score":0.82919484,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get a screenshot from your Netatmo Welcome camera when someone unknown is at the door. Receive screenshots directly in your mailbox each time someone unknown is seen by the camera. ",
+        "output":"TRIGGER SERVICE: Netatmo Security, TRIGGER EVENT: Someone unknown has been seen",
+        "score":0.7012533,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Telegram message sent when Tado switches to away mode. Telegram message sent when Tado switches to away mode",
+        "output":"TRIGGER SERVICE: tado\u00ba Heating, TRIGGER EVENT: tado\u2060\u00b0 switches to Away Mode",
+        "score":0.7795249,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"ISS On-Orbit Status Reports \u2192 iOS Reading List. From space to your reading list!",
+        "output":"TRIGGER SERVICE: Space, TRIGGER EVENT: ISS on-orbit status report",
+        "score":0.7896806,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Alexa to find your phone (VoIP call - International). Say 'Alexa, trigger find my phone' to hear your phone ringing. Required on your phone: IFTTT installed, internet connection, mute mode off.\nWorks independently of your region or phone number.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.73189783,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Carbon Quality - WeMo: Turn on my appliance when carbon quality is clean. Whenever the carbon quality is clean, turn on the appliance connected to my WeMo Smart Plug.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Carbon Quality",
+        "score":0.8386544,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Activate your Niko Home Control routine when your Somfy alarm is initiated. With this applet you can activate your Niko Home Control routine while the Somfy alarm is initiated. With this applet you can turn on your lights, open your blinds and start your Sonos when the alarm is initiated. ",
+        "output":"TRIGGER SERVICE: Somfy Protect, TRIGGER EVENT: Alarm initiated",
+        "score":0.77770644,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Sync your iOS calendar with google. Adds a iOS event to google calendars",
+        "output":"TRIGGER SERVICE: iOS Calendar, TRIGGER EVENT: New event added to any calendar",
+        "score":0.8136221,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Receive an emergency VoIP call if a smoke alarm is detected. If your iHaus smoke detector detects a smoke alarm you will\nreceive an automated VoIP call to your smartphone to let you know.",
+        "output":"TRIGGER SERVICE: iHaus smoke detector, TRIGGER EVENT: Smoke alarm",
+        "score":0.8271954,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Prayer time routine on Alexa from mkZense. mkZense will send an action to run a routine on your Alexa device at Muslim prayer time.",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.75889546,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Stop your Sonos speaker when you open the dishwasher door. Stop playing music on your Sonos speaker when you open the dishwasher door, to empty out the dishwasher",
+        "output":"TRIGGER SERVICE: Home Connect Dishwasher, TRIGGER EVENT: Door opened",
+        "score":0.722215,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Ask Alexa to turn off your hood. With a simple phrase Alexa will turn off your hood and hood light.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.8700266,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If myQ garage door is closed, then turn off Kasa (door down) light [HS103(US)]. Turn off light using myQ & Kasa",
+        "output":"TRIGGER SERVICE: MyQ, TRIGGER EVENT: Door closed",
+        "score":0.716349,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set your your temperature while activating Niko Home Control routines. This applet changes your setpoint temperature on your Honeywell thermostat while activating a routine in Niko Home Control",
+        "output":"TRIGGER SERVICE: Niko Home Control, TRIGGER EVENT: Routine activated",
+        "score":0.88592553,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Buffer a Gif. Buffer a gif",
+        "output":"TRIGGER SERVICE: Giphy, TRIGGER EVENT: New random GIF based on keyword",
+        "score":0.7396805,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Close Virtual Motion Sensor. Closes virtual motion sensor when Wyze motion sensor detects motion.",
+        "output":"TRIGGER SERVICE: Wyze, TRIGGER EVENT: Motion Sensor becomes clear",
+        "score":0.7050526,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Carbon Quality - Ecobee - Part 2: Resume Ecobee schedule when carbon quality is clean. Whenever the carbon quality is clean, update my ecobee thermostat to resume schedule.\n\nPart 2 of 2 applets to automate your thermostat's response when the carbon quality changes.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Carbon Quality",
+        "score":0.7123682,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Wemo Motion Email. Wemo Motion Email",
+        "output":"TRIGGER SERVICE: WeMo Motion, TRIGGER EVENT: Any new motion",
+        "score":0.7889071,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Trigger MESH if you say a specific phrase to Amazon Alexa. This trigger fires every time you say 'Alexa, trigger' + the phrase that you have defined. For instance, if you set 'mesh' as the phrase, you can say 'Alexa, trigger MESH' to send trigger to MESH. Please use lower-case only.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.7803695,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Prayer time announcement on Tochie Speaker. Muslim prayer notification announcement on Tochie Speaker.",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.7162692,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get the BrainyQuote QOTD delivered to your Slack channel. This Applet delivers BrainyQuote's Quote of the Day to a Slack channel of your choosing.",
+        "output":"TRIGGER SERVICE: BrainyQuote, TRIGGER EVENT: Today's Quote",
+        "score":0.77877504,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Change SkyBell light to red. Change your SkyBell HD video doorbell's light to Red when Nest Protect triggers a Carbon Monoxide Emergency. ",
+        "output":"TRIGGER SERVICE: Nest Protect, TRIGGER EVENT: Carbon monoxide emergency",
+        "score":0.82916737,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"iOS Contact to SF Contact. If you create a new contact in iOS Contacts, create a new ",
+        "output":"TRIGGER SERVICE: iOS Contacts, TRIGGER EVENT: Any new contact",
+        "score":0.7064034,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Create a note when an event is added to a specific iOS Calendar. Keep track of all your important meetings or to-dos in Evernote \u2014 when a new event is added to a specific calendar, this will sync the details to your notebook. ",
+        "output":"TRIGGER SERVICE: iOS Calendar, TRIGGER EVENT: New event added to specific calendar",
+        "score":0.7750846,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Switch Mi|Home adapter ON when my Nest protect detects a smoke alarm emergency . If smoke alarm emergency by Office Nest Protect, then powered on device",
+        "output":"TRIGGER SERVICE: Nest Protect, TRIGGER EVENT: Smoke alarm emergency",
+        "score":0.8213494,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set your Scout alarm when you leave home and lock your August Smart Lock. Arm your Scout alarm after a specific person locks a particular August Smart Lock and leaves home.",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock locked by specific person",
+        "score":0.8143361,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Show my Twitter mentions on Glance Clock. Every time you are @mentioned in a tweet, this tweet will be displayed on your Glance Clock. ",
+        "output":"TRIGGER SERVICE: Twitter, TRIGGER EVENT: New mention of you",
+        "score":0.83186257,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Every time POTUS signs a bill into law, save it to your iOS Reading List. Any time POTUS signs a bill into law, you'll get the official text of the new law in your reading list. Very helpful for not breaking federal law!",
+        "output":"TRIGGER SERVICE: ProPublica, TRIGGER EVENT: The president signs a new bill into law",
+        "score":0.76707065,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set your tado\u00b0 heating from manual to automatic when you leave the house. When the heating is set to Manual but tado\u00b0 switches to Away Mode, reset the heating to Automatic. Save money and stay efficient!",
+        "output":"TRIGGER SERVICE: tado\u00ba Heating, TRIGGER EVENT: tado\u2060\u00b0 switches to Away Mode",
+        "score":0.86891496,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If your oven door has been opened, receive a notification. If your oven door has been opened, receive a notification from the IFTTT app.",
+        "output":"TRIGGER SERVICE: Home Connect Oven, TRIGGER EVENT: Door opened",
+        "score":0.8941352,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on LiFX Lights when someone arrives. Bring your home to life when someone arrives home by turning on you LiFX lights when Fingbox detects a user is nearby",
+        "output":"TRIGGER SERVICE: Fing, TRIGGER EVENT: A user arrived",
+        "score":0.71786207,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify your Das Keyboard every time the camera detects a motion event. Every time the camera detects a motion event, a Signal will be sent to your Das Keyboard.",
+        "output":"TRIGGER SERVICE: Nest Cam, TRIGGER EVENT: New motion event",
+        "score":0.7128119,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Share NPR stories to Wordpress. Pick a category of stories from NPR and automatically share them on WordPress. Posts can be publically or privately published immediately, or select save them as a draft if you'd like to review them before posting.",
+        "output":"TRIGGER SERVICE: NPR, TRIGGER EVENT: New story published",
+        "score":0.73404884,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If system detects a household risk, then turn off WeMo Switch. If system detects a household risk, then turn off WeMo Switch",
+        "output":"TRIGGER SERVICE: Myfox HomeControl, TRIGGER EVENT: System detects a household risk",
+        "score":0.74351203,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Play a spoken notification when you are @mentioned on Twitter. Get a spoken notification when you are @mentioned on Twitter. In order to use this Applet, you must own Oticon Opn hearing aids and have the Oticon iOS app.",
+        "output":"TRIGGER SERVICE: Twitter, TRIGGER EVENT: New mention of you",
+        "score":0.74820185,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Hive View monitoring when you lock your August lock. This Applet monitors for when you lock your August lock and will promptly turn on your Hive View monitoring.",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock locked",
+        "score":0.8546994,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"\u2705 arm Blink system. Arm Blink system with one press of a button",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.7457973,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"New card on Trello for Strava activity. This recipe allows you to publish a Strava activity to a new card on a Trello board of your choosing. Mostly for my fellow Enchantment Camp training people...",
+        "output":"TRIGGER SERVICE: Strava, TRIGGER EVENT: New activity by you",
+        "score":0.7898761,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Alexa to turn off your bot. Say 'Alexa, turn off your bot' to turn off your bot. ",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.7135707,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When connecting to specific WiFi between noon and 23h, open specific NUKI door. Use it to open your NUKI smart lock when coming home in the afternoon\/evening (i.e. between 12h and 23h). Be careful with WiFi connections that go to 'sleep'\/ 'wakeup' on their own and may trigger unwanted events!",
+        "output":"TRIGGER SERVICE: Android Device, TRIGGER EVENT: Connects to a specific WiFi network",
+        "score":0.7531733,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set the temperature of a AC Cloud Control device when Apilio triggers an action (2). Sets a new temperature point on the AC Cloud Control device you select when Apilio triggers the action you specify.",
+        "output":"TRIGGER SERVICE: Apilio, TRIGGER EVENT: Receive an event from Apilio",
+        "score":0.7212622,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If you don't achieve a daily Fitbit goal then turn your A\/C off. If you don't achieve a daily Fitbit goal then turn your A\/C off",
+        "output":"TRIGGER SERVICE: Fitbit, TRIGGER EVENT: Daily goal not achieved by __:__",
+        "score":0.7441071,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Peak Time Savings (PTS) - ecobee - Part 2b: Set comfort profile for start of PTS Hours on my ecobee. Automatically adjust my ecobee Thermostat to my preferred comfort profile when PTS Hours begin. This is an alternative option to setting the temperature setpoint directly.\n \nPart 2 (option b) of 3 applets to automate your thermostat's response before, during, and after PTS Hours.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Peak Time Savings - Savings Hours Announced",
+        "score":0.7779509,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Twitter to Groupme. Whenever you tweet a link, the link will be sent to the groupme group of your choosing",
+        "output":"TRIGGER SERVICE: Twitter, TRIGGER EVENT: New link by you",
+        "score":0.8148916,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on the radio if your Arlo detects motion. Turn on the radio if your Arlo detects motion",
+        "output":"TRIGGER SERVICE: Arlo, TRIGGER EVENT: Motion detected",
+        "score":0.786013,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to preheat your oven. Get ready for cooking. With a simple phrase Google Assistant will preheat your oven using the fast preheat option. Just set your preferred temperature, duration and program.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.8306912,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send robot mower Robolinho\u00ae to work (start mowing), when CloudRain stopped irrigation. Send your robot mower Robolinho\u00ae to work (start mowing), when CloudRain stopped irrigation in a defined zone",
+        "output":"TRIGGER SERVICE: CloudRain Smart Garden Irrigation, TRIGGER EVENT: Irrigation stopped",
+        "score":0.8172031,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to prepare your Christmas holiday coffee. With a simple phrase Google Assistant will start your favorite coffee program with your preferred settings.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.7939843,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Receive a LaMetric Time notification if your Nest Protect's battery is low. Sticky notification will be displayed on your LaMetric Time with reminder to charge or replace Nest Protect's batteries.",
+        "output":"TRIGGER SERVICE: Nest Protect, TRIGGER EVENT: Battery is low",
+        "score":0.85039485,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Abode alarm -> Hue lights on. If your abode alarm is triggered, turn on all your Hue lights.",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Alarm activated",
+        "score":0.8555713,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Average Price Change - WeMo: Turn on my appliance when price is low. Whenever the price comes back down below my threshold, turn on the appliance connected to my WeMo Smart Plug.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Change in Average Price",
+        "score":0.7734705,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn Skylinknet Lights ON at specific time. Turn Skylinknet Lights ON at  a specific time every day",
+        "output":"TRIGGER SERVICE: Date & Time, TRIGGER EVENT: Every day at",
+        "score":0.79524755,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Blink Hue when Carbon Dioxide (CO2) level rises!. Blink Hue when Carbon Dioxide (CO2) level rises",
+        "output":"TRIGGER SERVICE: Awair, TRIGGER EVENT: Carbon Dioxide (CO\u2082) alert",
+        "score":0.7352765,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Pulse your LIFX lights when Skybell detects motion. Position the lights near your door and have them pulse red or orange for a perfectly spooky Halloween greeting to all your trick-or-treaters! \ud83c\udf83",
+        "output":"TRIGGER SERVICE: SkyBell HD, TRIGGER EVENT: Your SkyBell HD detected motion",
+        "score":0.7045375,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If New stream started by you, then post a rich message to a channel. Lives Twitch",
+        "output":"TRIGGER SERVICE: Twitch, TRIGGER EVENT: New stream started by you",
+        "score":0.8864336,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"One click to set a ThermoSmart temperature. This Action will set your ThermoSmart with one click to a temperature you have specified.",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.77283895,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Spotify saved track. Record Spotify tracks that you save to your Unforgettable Me account.",
+        "output":"TRIGGER SERVICE: Spotify, TRIGGER EVENT: New saved track",
+        "score":0.7563163,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Make a call from Triby when a certain person arrives home. When your Netatmo home camera sees a person come back home, Triby gives you a call. You can choose who that person is. This is a great Applet to know when your children, spouse, or friends arrive!",
+        "output":"TRIGGER SERVICE: Netatmo Security, TRIGGER EVENT: A specific person arrives home",
+        "score":0.7095468,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify your Das Keyboard when you are tagged in a photo on Facebook. Every time you are tagged in a photo on Facebook, a Signal will be sent to your Das Keyboard.",
+        "output":"TRIGGER SERVICE: Facebook, TRIGGER EVENT: You are tagged in a photo",
+        "score":0.7798945,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to start your favorite dishwasher program. With a simple phrase Google Assistant will start your dishwasher immediately with your favorite program.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.87430334,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"YT to Nimbus Note JT. Youtube to Nimbus Note",
+        "output":"TRIGGER SERVICE: YouTube, TRIGGER EVENT: New public video uploaded by you",
+        "score":0.7176404,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Contact List to Google Sheet. If a new contact is created it is added to a google sheet.",
+        "output":"TRIGGER SERVICE: Google Contacts, TRIGGER EVENT: New contact added",
+        "score":0.7676457,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Make a VoIP call when RF alarm is activated. Make a VoIP call to me when an RF alarm is activated.",
+        "output":"TRIGGER SERVICE: eWeLink Smart Home, TRIGGER EVENT: RF Bridge Alarm activated",
+        "score":0.7227942,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Peak Time Savings (PTS) - ecobee - Part 3: Resume ecobee Schedule when PTS hours complete. When Peak Time Savings Hours end, resume the programmed schedule on my ecobee thermostat.\n\nPart 3 of 3 applets to automate your thermostat's response before, during, and after PTS Hours.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Peak Time Savings - Savings Hours Announced",
+        "score":0.7785093,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Mailchimp to Gmail. Mailchimp to Gmail",
+        "output":"TRIGGER SERVICE: Mailchimp, TRIGGER EVENT: New subscriber",
+        "score":0.7326714,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on a LightwaveRF light when Apilio triggers an action (5). Turns on the LightwaveRF light of your choice when Apilio triggers the action you specify.",
+        "output":"TRIGGER SERVICE: Apilio, TRIGGER EVENT: Receive an event from Apilio",
+        "score":0.83926225,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Use Photo to Create Calendar Event. Simply add photo to designated album and it will create a modifiable calendar event linked to that photo. ",
+        "output":"TRIGGER SERVICE: iOS Photos, TRIGGER EVENT: New photo added to album",
+        "score":0.7630544,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get a summary of your current MailChimp campaign sent to your email. This Recipe will send you all of the current stats of your MailChimp campaign at the selected time after the campaign has been sent.",
+        "output":"TRIGGER SERVICE: Mailchimp, TRIGGER EVENT: Campaign summary available",
+        "score":0.79812086,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Off to bed.  Switch off the heating.. Use the Zeeq Smart Pillow to turn your heating off when you go to bed - EarthDay applet",
+        "output":"TRIGGER SERVICE: ZEEQ Smart Pillow by REM-Fit, TRIGGER EVENT: ZEEQ 'Start Sleep' Button",
+        "score":0.72561383,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Keep a record of all pinned message from a Discord channel. Anytime a new message is Pinned in your selected channel this Applet will automatically save it to Google Sheets",
+        "output":"TRIGGER SERVICE: Discord, TRIGGER EVENT: New pinned message in channel",
+        "score":0.7293663,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Validate new contact that is added in Group of Google Contacts before sending to Mailchimp.. When a new contact is added in Group to your Google Contacts, TuxMailer verifies the email address validity before you add them to a Mailchimp list.",
+        "output":"TRIGGER SERVICE: Google Contacts, TRIGGER EVENT: New contact added to group",
+        "score":0.7485012,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tap to turn on a Hubitat device. Tap a button on your mobile device to turn on a Hubitat light, switch, etc.",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.73182005,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Trigger MESH every time a new tweet matches your search query.. This Trigger fires every time a new tweet matches your search query. NOTE: limited to 15 tweets per check.",
+        "output":"TRIGGER SERVICE: Twitter, TRIGGER EVENT: New tweet from search",
+        "score":0.7330248,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Ask Alexa to prepare your favorite coffee. With a simple phrase Alexa will start your favorite coffee program with your preferred settings.\n",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.8509432,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Abode Standby Mode, Disarm Blink Cameras. When Abode Security System is set to Standby mode, Change Blink Cameras to Disarm.",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Mode changed",
+        "score":0.7016368,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Average Price Change - Ecobee - Part 1: Set Ecobee Thermostat when price is high. Whenever the price exceeds my threshold, set my ecobee thermostat.\n\nPart 1 of 2 applets to automate your thermostat's response when the price changes.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Change in Average Price",
+        "score":0.70964164,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"when recognizes a Face ID then unlock the door. when SimCam recognizes a Face ID that set up then unlock Nuki Smart lock",
+        "output":"TRIGGER SERVICE: SimCam, TRIGGER EVENT: Facial Recognition",
+        "score":0.8508786,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Disarm Arlo when Hubitat's mode changes. Disarms Arlo when the Hubitat mode changes.",
+        "output":"TRIGGER SERVICE: Hubitat, TRIGGER EVENT: Mode changes",
+        "score":0.9108928,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Disarm Blink System (Europe) at a specific time. Disarm Blink System (Europe)",
+        "output":"TRIGGER SERVICE: Date & Time, TRIGGER EVENT: Every day of the week at",
+        "score":0.82199407,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Receive a phone call. Press the pusher to receive a VoIP phone call.",
+        "output":"TRIGGER SERVICE: Kronaby, TRIGGER EVENT: Pusher pressed",
+        "score":0.71618307,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Park Automower\u00ae when wind speed rises above high wind. Husqvarna Automower\u00ae will be parked until further notice when wind speed rises above high wind (above 50 kph).",
+        "output":"TRIGGER SERVICE: Weather Underground, TRIGGER EVENT: Wind speed rises above",
+        "score":0.85070384,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send the NASA Astronomy Picture of the Day to your Discord channel. Get a daily dose of NASA by sending the Astronomy Picture of the Day to your Discord channel.",
+        "output":"TRIGGER SERVICE: Space, TRIGGER EVENT: Astronomy picture of the day by NASA",
+        "score":0.8525598,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set Fanimation device when your Habitat device turn on. Set Fanimation device when your Habitat device turn on",
+        "output":"TRIGGER SERVICE: Hubitat, TRIGGER EVENT: Device turns on",
+        "score":0.70019376,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Carbon Quality - WeMo: Turn off my appliance when carbon quality is dirty. Whenever the carbon quality is dirty, turn off the appliance connected to my WeMo Smart Plug.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Carbon Quality",
+        "score":0.85473096,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Call someone when you enter an area. Initiate a phone call to someone once you enter a specific geographical area.",
+        "output":"TRIGGER SERVICE: Location, TRIGGER EVENT: You enter an area",
+        "score":0.71252996,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Change the light to orange when there is an air quality alert. This will change the WiZ light(s) of your choice to orange color when your Withings Home raises an air quality alert. A simple and useful way to visualize the alert quickly. \n(Only for WiZ Colors lights)",
+        "output":"TRIGGER SERVICE: Withings Home, TRIGGER EVENT: An air quality alert has been raised",
+        "score":0.7261537,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send email from gmail when a visitor presses my doorbell. Send an email from my gmail account when a visitor presses the button on my SkyBell HD video doorbell.",
+        "output":"TRIGGER SERVICE: SkyBell HD, TRIGGER EVENT: Your SkyBell HD\u2018s button was pressed",
+        "score":0.72001636,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Flickr to stockimo. New",
+        "output":"TRIGGER SERVICE: Flickr, TRIGGER EVENT: Any new public photo",
+        "score":0.79382175,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"'Connected Dry' with IFTTT. Let you washer set the right program on your dryer!. 'Connected Dry' with IFTTT. When your washer has finished its cycle, the right program is selected on your dryer based on the program run on your washer, to achieve the optimal drying result!",
+        "output":"TRIGGER SERVICE: Home Connect Washer, TRIGGER EVENT: Cycle is complete",
+        "score":0.7623706,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Automatically turn on your LIFX porch lights when your order is out for delivery. Your LIFX porch lights will turn on to light the delivery driver\u2019s way when Domino\u2019s Tracker indicates your order is out for delivery",
+        "output":"TRIGGER SERVICE: Domino's, TRIGGER EVENT: Order out for delivery",
+        "score":0.8482972,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Add Mailchimp Subscribers to Contacts. Make you you change the list.",
+        "output":"TRIGGER SERVICE: Mailchimp, TRIGGER EVENT: New subscriber",
+        "score":0.7322897,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If VOC's are 4 or Above, Turn on Nest Fan for 15 Minutes. If Awair detects VOC's at level 4 or above it will turn on the Nest fan for 15 minutes to circulate the air.",
+        "output":"TRIGGER SERVICE: Awair, TRIGGER EVENT: VOCs alert",
+        "score":0.80160946,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Arm Blink System (Europe) at a specific time. Arm Blink System (Europe)",
+        "output":"TRIGGER SERVICE: Date & Time, TRIGGER EVENT: Every day of the week at",
+        "score":0.8085277,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"RSS to Pryv. If new RSS feed item, then add a note to Pryv",
+        "output":"TRIGGER SERVICE: RSS Feed, TRIGGER EVENT: New feed item",
+        "score":0.9328499,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Carbon Quality - Philips Hue Lights: Change color of my Hue bulbs when carbon index goes back down. Whenever the carbon index comes back down below my threshold, change the color of my Philips Hue light bulbs to my specified value.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Manage your Carbon Footprint - Change in carbon intensity",
+        "score":0.74426967,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If Window\/Door opened, place heating zone into Standby mode. . If Window\/Door opened, place heating zone into Standby mode.",
+        "output":"TRIGGER SERVICE: Wireless Tag, TRIGGER EVENT: Door or window is opened",
+        "score":0.7444612,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to prioritize my device. Say a simple phrase you choose, like 'Ok Google, prioritize my phone', to prioritize a specific device connected to your TP-Link Router.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.9082788,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Enable\/Disable Nexus Home Actions when someone Locks August lock. Enable\/Disable Nexus Home Actions when someone Locks August lock",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock locked",
+        "score":0.74632657,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"MYQ Garage Close. Close garage door when you leave area ",
+        "output":"TRIGGER SERVICE: Location, TRIGGER EVENT: You exit an area",
+        "score":0.80600953,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"You've had a photo accepted to Stockimo, get an email to let you know.. Well done, you've had a Stockimo image accepted, now get sent an email to your Gmail account to let you know.",
+        "output":"TRIGGER SERVICE: Stockimo, TRIGGER EVENT: New photo by you is accepted",
+        "score":0.8602519,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify your Das Keyboard when you completed an item from you Amazon Alexa TODO-list. Every time you completed an item from you Amazon Alexa TODO-list, a Signal will be sent to your Das Keyboard.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Item completed on your To Do List",
+        "score":0.7398261,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If you arrive close to your home, then disable your Myfox system. If you arrive close to your home, then disable your Myfox system",
+        "output":"TRIGGER SERVICE: Location, TRIGGER EVENT: You enter an area",
+        "score":0.8109562,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"tado\u00b0 Heating: invia messaggio Telegram se si attiva l'Home Mode. Nel caso in cui qualcuno torni a casa e il sistema di riscaldamento intelligente tado\u00b0 disattivi l'Away Mode (tornando in modalit\u00e0 Home), un messaggio su Telegram ti notificher\u00e0 la modifica eseguita.",
+        "output":"TRIGGER SERVICE: tado\u00ba Heating, TRIGGER EVENT: tado\u2060\u00b0 switches to Home Mode",
+        "score":0.71743387,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When your Domino's pizza is out for delivery turn on a My Leviton Light and run a My Leviton Scene. Turn on the porch light and run a dinner time scene when your Domino's pizza is out for delivery",
+        "output":"TRIGGER SERVICE: Domino's, TRIGGER EVENT: Order out for delivery",
+        "score":0.7756554,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Nexus Home lights when someone unlocks August Lock. Turn On Nexus Home Lights when someone unlocks August Lock ",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock unlocked",
+        "score":0.7616631,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"iHome Control iSS50 - Humidity Change Text. Enable your iHome Control iSS50 to send a text when a change in humidity is detected.",
+        "output":"TRIGGER SERVICE: iHome Control, TRIGGER EVENT: Multi-Sensor (iSS50) crosses a humidity threshold",
+        "score":0.8131521,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Zuluhood alarm triggered on alarm from Blue by ADT. Your whole Tribe and all your Watchers are immediately notified when alarm is raised.You can continue to communicate in Zuluhood and check instantly if everyone is ok and who is coming to check on your home.",
+        "output":"TRIGGER SERVICE: Blue by ADT, TRIGGER EVENT: An alarm event",
+        "score":0.8250153,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Any new payment accepted via Square sends you an email. Any new payment accepted via Square sends you an email",
+        "output":"TRIGGER SERVICE: Square, TRIGGER EVENT: Any new payment",
+        "score":0.837796,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Any new refund made via Square sends you an email. Any new refund made via Square sends you an email",
+        "output":"TRIGGER SERVICE: Square, TRIGGER EVENT: Any new refund",
+        "score":0.8586993,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Play a favorite on your Sonos when dinner is ready. Have your Sonos speaker play a favorite tune to let you know that your oven with Home Connect has finished cooking.",
+        "output":"TRIGGER SERVICE: Home Connect Oven, TRIGGER EVENT: Oven finished",
+        "score":0.7870383,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"iHome Control iSS50 - Temperature Change Email. Enable your iHome Control iSS50 to send an email when a change in temperature is detected.",
+        "output":"TRIGGER SERVICE: iHome Control, TRIGGER EVENT: Multi-Sensor (iSS50) crosses a temperature threshold",
+        "score":0.8010309,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Art Quote of the Day (Twitter). Publishes a non-spammy art quotation tweet daily.",
+        "output":"TRIGGER SERVICE: BrainyQuote, TRIGGER EVENT: Art Quotes",
+        "score":0.7012309,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Lights Off with Lutron Caseta and Smart Life. Activate a scene with Lutron Caseta and a scene with Smart Life using a command on Google Assistant.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.742965,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Take a photo, send it to your Stockimo upload queue . This recipe will send any new photo straight up to your Stockimo upload queue",
+        "output":"TRIGGER SERVICE: iOS Photos, TRIGGER EVENT: Any new photo",
+        "score":0.7606499,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Automatically save your QNAP device files to Google Drive. Whenever a new file is added to your NAS folder, it will be automatically copied to your Google Drive",
+        "output":"TRIGGER SERVICE: QNAP, TRIGGER EVENT: New file in your folder",
+        "score":0.7992371,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If you miss a call alert from your security system, notify your Tribe and Watchers immediately. Some security systems call from specific phone number (usually your landline phone number) to alert you. But what if your phone is silenced, you are on a meeting or on the plane?Connect to Zuluhood and alert your whole Tribe and all your Watchers immediately if such phone call is missed on you Android phone.",
+        "output":"TRIGGER SERVICE: Android Phone Call, TRIGGER EVENT: Incoming phone call from a specific number missed",
+        "score":0.71491456,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send my Pryv's note to Evernote. Send my Pryv's note to Evernote",
+        "output":"TRIGGER SERVICE: Pryv, TRIGGER EVENT: New note added by you",
+        "score":0.812545,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Start your favorite song on Sonos speaker when your dishwasher cycle is finished. Start playing your favorite song on your Sonos speaker when your dishwasher cycle is finished",
+        "output":"TRIGGER SERVICE: Home Connect Dishwasher, TRIGGER EVENT: Cycle is complete",
+        "score":0.73225033,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Order Domino's when my Domino's order is out for delivery. If an endless loop of pizza would be your greatest wish come true, then your wish is our command. When Domino's Tracker says your order is out for delivery, your Domino's Easy Order will automatically be placed.",
+        "output":"TRIGGER SERVICE: Domino's, TRIGGER EVENT: Order out for delivery",
+        "score":0.83152366,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Smart Life when UbiBot's External Temperature Probe 1 Rises above or Drops below. Use this Applet to turn on Smart Life when UbiBot's External Temperature Probe 1 Rises above or Drops below",
+        "output":"TRIGGER SERVICE: UbiBot, TRIGGER EVENT: External-DS18B20-Temperature-Probe-1 Rises above or Drops below",
+        "score":0.8354632,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If watering time starts then quick add event to Google Calendar. If watering time starts then quick add event to Google Calendar",
+        "output":"TRIGGER SERVICE: Rachio, TRIGGER EVENT: Watering time starts",
+        "score":0.8227265,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Instagram Videos. Upload any new Instagram video to your Unforgettable Me account.",
+        "output":"TRIGGER SERVICE: Instagram, TRIGGER EVENT: Any new video by you",
+        "score":0.8390306,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Change the light to red if the CO\u2082 level gets too high. This will change the WiZ lights of your choice to red whenever your Awair detects a CO\u2082 level above a certain threshold.",
+        "output":"TRIGGER SERVICE: Awair, TRIGGER EVENT: Carbon Dioxide (CO\u2082) alert",
+        "score":0.79211736,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Add new iPhone photos to Amazon Drive. Add new iPhone photos to Amazon Drive",
+        "output":"TRIGGER SERVICE: iOS Photos, TRIGGER EVENT: Any new photo",
+        "score":0.7995485,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get called when your Domino's order is out for delivery.. Receive a phone call when your Domino's order is out for delivery.",
+        "output":"TRIGGER SERVICE: Domino's, TRIGGER EVENT: Order out for delivery",
+        "score":0.7570951,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"iHome Control iSS50 - Occupancy Change Email. Enable your iHome Control iSS50 to send an email when a change in occupancy is detected.",
+        "output":"TRIGGER SERVICE: iHome Control, TRIGGER EVENT: Multi-Sensor (iSS50) detects occupancy change",
+        "score":0.8361358,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If Abode set to away, Arm Arlo. When abode is set to away set Arlo to arm mode",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Mode changed",
+        "score":0.8860483,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Smart light change color at prayer time. Change smart light color at prayer time.\n\nExample: Table lamp to green color at prayer time.\n",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.7191818,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get notified when dishwasher cycle ends. Your Philips Hue lights will change color to green and you will receive a notification, when dishwasher cycle is complete.",
+        "output":"TRIGGER SERVICE: Home Connect Dishwasher, TRIGGER EVENT: Cycle is complete",
+        "score":0.84376544,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send your starred articles to Safari's Reading List. Just star an article in your Inoreader and it will be automatically added in the Reading List on your iPhone or iPad. You need to have the IF app installed for this recipe to work.",
+        "output":"TRIGGER SERVICE: Inoreader, TRIGGER EVENT: New starred article",
+        "score":0.7017109,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set your smanos to arm when you lock your August Smart Lock. Arm your smanos after you lock August Smart Lock.",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock locked",
+        "score":0.83285165,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Launch HomeSeer Event When Wyze Camera Detects Motion. HomeSeer Events can issue text or spoken alerts and can also control devices. This applet will launch a HomeSeer event when your Wyze camera detects motion.",
+        "output":"TRIGGER SERVICE: Wyze, TRIGGER EVENT: Motion is detected",
+        "score":0.80852973,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Launch HomeSeer Event When Ring Doorbell is Rung. HomeSeer Events can issue text or spoken alerts and can also control devices. This applet will launch a HomeSeer event when your Ring Doorbell is rung.",
+        "output":"TRIGGER SERVICE: Ring, TRIGGER EVENT: New Ring Detected",
+        "score":0.7044548,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Switch on a SmartThings device when motion is detected by SkyBell HD. Switch on a SmartThings device when motion is detected by SkyBell HD",
+        "output":"TRIGGER SERVICE: SkyBell HD, TRIGGER EVENT: Your SkyBell HD detected motion",
+        "score":0.85705566,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on ambient light of your hood when your dryer cycle is done. The ambient light of your hood will turn on with your preferred color when your dryer cycle is complete.",
+        "output":"TRIGGER SERVICE: Home Connect Dryer, TRIGGER EVENT: Cycle is complete",
+        "score":0.8210916,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Close garage door 2 using Amazon Alexa. Close your garage door or gate when you say a specific phrase.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.79059416,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get an email when the hood grease filter is saturated. When the hood grease filter is saturated, you will get an email as a reminder including instructions on how to clean the filter.",
+        "output":"TRIGGER SERVICE: Home Connect Hood, TRIGGER EVENT: Grease filter saturation reached",
+        "score":0.76704526,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Trigger MESH if you say a simple phrase to Google Assistant. This trigger fires when you say \u201cOk Google\u201d to the Google Assistant followed by a phrase you choose. For example, say \u201cOk Google, I\u2019m running late\u201d to text a family member that you\u2019re on your way home.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.7841215,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Livy Protect Connection for Nuki Smart Lock. Lock 'n' Go the door when you leaving home",
+        "output":"TRIGGER SERVICE: Livy, TRIGGER EVENT: Livy Protect alarm activation ",
+        "score":0.84185135,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"RescueTime Daily Summary. Records RescueTime daily summary to your Unforgettable Me account",
+        "output":"TRIGGER SERVICE: RescueTime, TRIGGER EVENT: New daily summary is available",
+        "score":0.7527772,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Download finished transfers to your QNAP device. When a transfer is finished on put.io, it will be downloaded automatically to your QNAP device.",
+        "output":"TRIGGER SERVICE: put.io, TRIGGER EVENT: Transfer finished",
+        "score":0.8202956,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn off AC with Logitech POP - double press. Turn off AC with double press of Logitech POP when POP is issuing 'off' command",
+        "output":"TRIGGER SERVICE: Logitech POP, TRIGGER EVENT: Double Press",
+        "score":0.80801374,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn off Home Connect devices if a smoke alarm is detected. Automatically turn off your Home Connect Oven and Hood when the iHaus smoke detector detects a smoke alarm. ",
+        "output":"TRIGGER SERVICE: iHaus smoke detector, TRIGGER EVENT: Smoke alarm",
+        "score":0.8428145,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Arm my system with Amazon's Alexa. Talk to Amazon Alexa and tell her to arm your system using your voice. Alexa trigger arm my security system. Please note that Amazon Alexa do not have all the same passcode protections you normally use when manually arming and disarming your alarm system. We strongly recommend using unique phrases and codewords. You must use the phrase 'Alexa trigger' plus your unique phrase. An example would be: Alexa trigger arm my security system with code System Secure 2019.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.73941565,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Ask for help and verification on Honeywell security alarm. If your Honeywell alarm is triggered, Zuluhood will alert everyone living at your home and people close by who can help. You will know who went to help you and check the alarm straight in your Zuluhood app. \nIf you have the professional monitoring on (check the availability in your Zuluhood app), alert will also be sent to the 24\/7 monitoring center you have selected.",
+        "output":"TRIGGER SERVICE: Honeywell Home, TRIGGER EVENT: Smart Home Security Alarm activated",
+        "score":0.792029,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If a Zoom meeting ends, then turn off OnAir sign. Turns off a SmartLife switch",
+        "output":"TRIGGER SERVICE: Zoom, TRIGGER EVENT: Any scheduled meeting ends",
+        "score":0.8555167,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Stop Sonos when you leave home. As soon as you leave your home via Lock 'n' Go, your Sonos will automatically pause.",
+        "output":"TRIGGER SERVICE: Nuki Smart Lock, TRIGGER EVENT: Leave home",
+        "score":0.7672063,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on your Hue lights whenever your lock is unlocked. Whenever anyone unlocks your lock, the selected Hue lights will turn on.",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock unlocked",
+        "score":0.80246985,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Follow any RSS feed via Boxcar Push. Follow any RSS feed via Boxcar Push",
+        "output":"TRIGGER SERVICE: RSS Feed, TRIGGER EVENT: New feed item",
+        "score":0.76058364,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Trending GIF. If there's a new trending GIF on GIPHY, then you get an e-mail",
+        "output":"TRIGGER SERVICE: Giphy, TRIGGER EVENT: New trending GIF",
+        "score":0.8482757,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"iOS to Google Contacts. iOS to Google Contacts",
+        "output":"TRIGGER SERVICE: iOS Contacts, TRIGGER EVENT: Any new contact",
+        "score":0.7604692,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Save new NPR stories to Pocket to remember to read them later. Never miss a story! Choose an NPR category then automatically have stories save to your Pocket reading list.",
+        "output":"TRIGGER SERVICE: NPR, TRIGGER EVENT: New story published",
+        "score":0.76216894,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Save photos you share on Instagram to Amazon Cloud Drive. If you share a photo on Instagram it will be saved to your Amazon Cloud Drive.",
+        "output":"TRIGGER SERVICE: Instagram, TRIGGER EVENT: Any new photo by you",
+        "score":0.80606383,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tado send notification when away home. When Tado sets to away home it sends a notification to the IFTT app",
+        "output":"TRIGGER SERVICE: tado\u00ba Heating, TRIGGER EVENT: tado\u2060\u00b0 switches to Away Mode",
+        "score":0.7230861,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If ambient temperature rises above specific level, send blink event. If the ambient temperature of your house raises above a specific level, then send a blink event.",
+        "output":"TRIGGER SERVICE: AC Cloud Control, TRIGGER EVENT: Temperature rises above",
+        "score":0.73861635,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on SpotCam automatically when a specified device disconnects from TP-Link router. If a specified device disconnects from your TP-Link router then turn on the SpotCam",
+        "output":"TRIGGER SERVICE: TP-Link Router, TRIGGER EVENT: Device Disconnects",
+        "score":0.81210613,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Smitch change bulb color at prayer time. Change bulb color on Smitch device at prayer time.\n\nExample: Table lamp to green color at prayer time.\n",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.8111077,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Order Domino\u2019s when your running or cycling club schedules a new event. The only thing better than Domino\u2019s pizza is hard-earned Domino\u2019s pizza. So get out there with your club members, share some miles, and then share a slice. Your Domino\u2019s Easy Order will be automatically placed when your Strava club schedules a new event.",
+        "output":"TRIGGER SERVICE: Strava, TRIGGER EVENT: New club event scheduled",
+        "score":0.8308395,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Any new refund made via Square adds a row to a spreadsheet. Any new refund made via Square adds a row to a spreadsheet",
+        "output":"TRIGGER SERVICE: Square, TRIGGER EVENT: Any new refund",
+        "score":0.88336635,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Philips Hue scene at prayer time. Change Philips Hue scene at prayer time.\n\nExample: Table lamp to green color at prayer time.\n",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.7298949,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Rss To Nimbusnote. Rss To Nimbusnote",
+        "output":"TRIGGER SERVICE: RSS Feed, TRIGGER EVENT: New feed item",
+        "score":0.71033514,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Start my washer when electricity is cheap. This applet will start your washer at the optimal time. When electricity in selected Denmark Region is cheap, selected washer program will run.",
+        "output":"TRIGGER SERVICE: True Energy Smart Home Denmark, TRIGGER EVENT: Electricity in Denmark is Cheap",
+        "score":0.7774607,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Remind me when a Google Calendar event is starting soon. When a Google Calendar event is within 15 minutes away, your Nanoleaf Aurora will change to the color you select. Most useful if your Aurora is in the same room where you work =)",
+        "output":"TRIGGER SERVICE: Google Calendar, TRIGGER EVENT: Any event starts",
+        "score":0.7236114,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Toggle EZVIZ Privacy Mode when Apilio triggers an action. Toggles Privacy Mode on a EZVIZ camera of your choice when Apilio triggers the action you specify",
+        "output":"TRIGGER SERVICE: Apilio, TRIGGER EVENT: Receive an event from Apilio",
+        "score":0.8562819,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify your Das Keyboard when there is a breaking news alert on Fox News. Every time there is a breaking news alert on Fox News, a Signal will be sent to your Das Keyboard.",
+        "output":"TRIGGER SERVICE: Fox News, TRIGGER EVENT: Breaking news alert",
+        "score":0.75571644,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When August locks, close my garage door. When an August Smart Lock is locked, use beam to close your garage door, as well.",
+        "output":"TRIGGER SERVICE: August, TRIGGER EVENT: Lock locked",
+        "score":0.84765005,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Record Arlo clip when your door is opened. When an abode door or window equipped with a sensor is opened, Arlo will record a video clip.",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Door opened",
+        "score":0.8145516,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send an SMS when Withings Home detects motion. Get notified when Withings Home detects motion",
+        "output":"TRIGGER SERVICE: Withings Home, TRIGGER EVENT: Motion has been detected",
+        "score":0.82228166,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on your lights with Google Assistant. Control your smart light with a simple phrase: 'Ok Google, turn on the lights!'",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.77110887,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Ask Alexa to start your washer. With a simple phrase Alexa will start your washer immediately with your favorite program.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.8380533,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When, 'Garage Door' closes, turn off Smartthings Device. . When, 'Garage Door' closes, turn off Smartthings Device.Refer to Smartthings Community post for help and info on a second door.https:\/\/community.smartthings.com\/t\/how-to-smartthings-myq-smartapp-using-myq-sensors-with-ifttt\/149601\/104?u=brockpriest",
+        "output":"TRIGGER SERVICE: MyQ, TRIGGER EVENT: Door closed",
+        "score":0.8336475,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If alarm triggered then email . Email yourself, friend or neighbor when your alarm is triggered. ",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Alarm activated",
+        "score":0.71217483,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Create a new page when an important meeting is added to your iOS Calendar. When an event with the keyword you choose is added, OneNote will automatically make a new page in the notebook you specify. When the meeting happens, you'll be ready to take notes and jot down follow-up steps or contact information. \u2705",
+        "output":"TRIGGER SERVICE: iOS Calendar, TRIGGER EVENT: New event added from search",
+        "score":0.7528753,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Open garage door using Amazon Alexa. Open your garage door or gate when you say a specific phrase.",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.7615091,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When motion is detected by Blink (EU), set a variable to true in Apilio. This applet lets you store presence information in Apilio, so you can know if someone has been detected by your Blink camera and automate any home logic. This applet is for European users",
+        "output":"TRIGGER SERVICE: Blink (Europe), TRIGGER EVENT: Motion detected",
+        "score":0.715194,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Arlo records clip when Abode door opened.. When an abode door or window equipped with a sensor is opened, arlo will record a video clip.",
+        "output":"TRIGGER SERVICE: abode, TRIGGER EVENT: Door opened",
+        "score":0.77897507,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify me when my thermostat\u2019s target temperature changes. Receive an SMS message when your thermostat\u2019s target temperature changes.\n",
+        "output":"TRIGGER SERVICE: iDevices, TRIGGER EVENT: Thermostat temperature set",
+        "score":0.73441213,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set your thermostat to __\u00ba. Enables you to set your thermostat's set temperature with the button widget.",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.7086076,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Carbon Quality - Philips Hue Lights: Change color of my Hue bulbs when carbon quality is dirty. Whenever the carbon quality is dirty, change the color of my Philips Hue light bulbs to my specified value.",
+        "output":"TRIGGER SERVICE: ComEd, TRIGGER EVENT: Carbon Quality",
+        "score":0.7989899,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Feedly read later to Reading List. Articles saved for later in feedly get sent to iOS Reading List",
+        "output":"TRIGGER SERVICE: Feedly, TRIGGER EVENT: New article saved for later",
+        "score":0.8333063,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Zuluhood alarm triggered on Netatmo alarm. Your whole Tribe and all your Watchers are immediately notified when alarm is raised.You can continue to communicate in Zuluhood and check instantly if everyone is ok and who is coming to check on your home.",
+        "output":"TRIGGER SERVICE: Netatmo Security, TRIGGER EVENT: An alarm has been detected",
+        "score":0.83868134,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Twitter follow to Mailchimp Sub. This takes a twitter follower and turns them into a mailchimp subscriber to a specific list. Connect your twitter and you're mailchimp choose you're mailchimp list.",
+        "output":"TRIGGER SERVICE: Twitter, TRIGGER EVENT: New follower",
+        "score":0.7086878,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Save tracks you like on SoundCloud to Amazon Cloud Drive. Whenever you like a public and downloadable track, it will be uploaded to Amazon Cloud Drive.",
+        "output":"TRIGGER SERVICE: SoundCloud, TRIGGER EVENT: New public like",
+        "score":0.70640785,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When SkylinkNet Hub is in specific mode, send an email notification. Send an email when SkylinkNet hub is in specific mode, such as Arm Home, Arm Away, Panic, Disarm, Entry Delay, Exit Delay. ",
+        "output":"TRIGGER SERVICE: SkylinkNet, TRIGGER EVENT: Hub status changed",
+        "score":0.7552663,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Cancel Standby Mode on the selected Heatmiser Thermostat when Apilio triggers and action (2). Cancels the StandBy Mode on the Heatmiser Thermostat of your choice, when Apilio triggers the action you specify",
+        "output":"TRIGGER SERVICE: Apilio, TRIGGER EVENT: Receive an event from Apilio",
+        "score":0.8352698,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Transfer photos from #Dropbox to #AmazonCloud. Set up the recipe, add files to the designated subfolder.",
+        "output":"TRIGGER SERVICE: Dropbox, TRIGGER EVENT: New photo in your folder",
+        "score":0.7016907,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Create a playlist when it's Christmas. Automatically create a playlist when it'll be Christmas\r\nNow you can add songs that can be played on Christmas\r\nNote. Playlist is empty",
+        "output":"TRIGGER SERVICE: Is It Christmas?, TRIGGER EVENT: Is It Christmas?",
+        "score":0.7684211,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Receive an email when your thermostat is set to Frost-Guard Mode. Receive an email when your thermostat is set to Frost Guard Mode.",
+        "output":"TRIGGER SERVICE: Netatmo Thermostat, TRIGGER EVENT: Entering frost-guard mode",
+        "score":0.7783473,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Add Record to Salesforce with Zoom Phone. Add a call record to Salesforce SO with Zoom Phone.",
+        "output":"TRIGGER SERVICE: Zoom Phone, TRIGGER EVENT: New call in call log",
+        "score":0.72996473,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on WeMo Smart Plug when UbiBot Temperature Rises above or Drops below. Use this Applet to turn on WeMo Smart Plug when UbiBot Temperature Rises above or Drops below",
+        "output":"TRIGGER SERVICE: UbiBot, TRIGGER EVENT: Temperature Rises above or Drops below",
+        "score":0.8779882,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Run my Trane Home automation when VOC value is above or below a threshold. Configure a Trane Home automation to run when VOC value is above or below a specified level.",
+        "output":"TRIGGER SERVICE: Awair, TRIGGER EVENT: VOCs alert",
+        "score":0.7140763,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Delicious to Nimbus Note. If any new Delicious public bookmark, then create a Nimbus Note.",
+        "output":"TRIGGER SERVICE: Delicious, TRIGGER EVENT: Any new public bookmark",
+        "score":0.89009833,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Post to twitter, when AL-KO Robolinho\u00ae has started mowing. Post to your twitter profile, when your AL-KO Robolinho\u00ae has started mowing, to inform your friends and followers",
+        "output":"TRIGGER SERVICE: AL-KO Smart Garden, TRIGGER EVENT: Robolinho\u00ae has started mowing",
+        "score":0.8565539,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send a daily love quote. Use BrainyQuote to send a daily love quote to Lovebox.",
+        "output":"TRIGGER SERVICE: BrainyQuote, TRIGGER EVENT: Love Quotes",
+        "score":0.8736913,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If any phone call is received, then create a new contact. . Add a new contact for any phone call answered. ",
+        "output":"TRIGGER SERVICE: Android Phone Call, TRIGGER EVENT: Any incoming phone call ends",
+        "score":0.7045772,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If Alexa song is played, set Nimbus to title. If Alexa song is played, set Nimbus to title",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: New song played",
+        "score":0.72243404,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Send me an IF notification when an appliance is turned off. Send me an IF notification when Smappee detected that the selected appliance was turned off.",
+        "output":"TRIGGER SERVICE: Smappee, TRIGGER EVENT: Appliance turns off",
+        "score":0.79727143,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Blink Hue lights in nest cam motion event. Blink Hue lights when motion is detected with nest cam.",
+        "output":"TRIGGER SERVICE: Nest Cam, TRIGGER EVENT: New motion event",
+        "score":0.8771083,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Log all new contacts from google in Google Sheets. When a new contact is created a new row will be added to Google Sheets of that contact with most information.",
+        "output":"TRIGGER SERVICE: Google Contacts, TRIGGER EVENT: New contact added",
+        "score":0.7105079,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"If You say 'Alexa trigger cool down the house', then set temperature to 71 Fahrenheit . If You say 'Alexa trigger cool down the house', then set temperature to 71 Fahrenheit",
+        "output":"TRIGGER SERVICE: Amazon Alexa, TRIGGER EVENT: Say a specific phrase",
+        "score":0.7236135,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Backup Stockimo photos to Dropbox . For any photo you upload to Stockimo, send a backup to Dropbox.",
+        "output":"TRIGGER SERVICE: Stockimo, TRIGGER EVENT: Any new photo uploaded by you",
+        "score":0.7002123,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get an email when motion is detected at your front door. Get an email alert when motion is detected by your SkyBell HD. Requires that the SkyBell HD motion sensor is set to 'on'.",
+        "output":"TRIGGER SERVICE: SkyBell HD, TRIGGER EVENT: Your SkyBell HD detected motion",
+        "score":0.8249261,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on a Hubitat device when Flic is clicked. Turns on a Hubitat switch, light, etc. when Flic is clicked, double clicked, or held.",
+        "output":"TRIGGER SERVICE: Flic, TRIGGER EVENT: Flic is clicked",
+        "score":0.9079783,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Hue Lights when someone arrives. Bring your home to life when someone arrives home by turning on you Philips Hue lights when Fingbox detects a User is nearby",
+        "output":"TRIGGER SERVICE: Fing, TRIGGER EVENT: A user arrived",
+        "score":0.7264215,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to prepare your favorite coffee drink with milk. With a simple phrase Google Assistant will prepare your favorite coffee drink with milk using your preferred settings.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.79285574,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"One click action pausing your ThermoSmart. This Action pauses your ThermoSmart with just one click.",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.7544412,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Prioritize a device when it connects to your TP-Link network. TP-Link Router will prioritize a specific device when it connects to your network.",
+        "output":"TRIGGER SERVICE: TP-Link Router, TRIGGER EVENT: Device Connects",
+        "score":0.8844148,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Set higher temperature in my freezer when electricity is expensive. This applet will set higher temperature in your freezer at the optimal time. When electricity in selected Norway Region is expensive, freezer will work at selected temperature.",
+        "output":"TRIGGER SERVICE: True Energy Smart Home Norway, TRIGGER EVENT: Electricity in Norway is Expensive",
+        "score":0.7106066,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Hive View monitoring when WeMo detects motion. This Applet will monitor for motion after a specific amount of time you specify before turning on you Hive View monitoring. Requires the WeMo Motion device for use.",
+        "output":"TRIGGER SERVICE: WeMo Motion, TRIGGER EVENT: New motion after quiet period",
+        "score":0.879459,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Post Trending GIF to Slack. Everyone needs more GIFs in their lives. I created a separate #lol channel that uses this recipe.",
+        "output":"TRIGGER SERVICE: Giphy, TRIGGER EVENT: New trending GIF",
+        "score":0.7848176,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When Tado switches to away turn off Hue lights. This will allow you to turn off all or selected zones of Philips Hue lights when your Tado heating switches to away mode.  This should help save electricity and money when you're forgetful or in a hurry and leave lights on around the house.",
+        "output":"TRIGGER SERVICE: tado\u00ba Heating, TRIGGER EVENT: tado\u2060\u00b0 switches to Away Mode",
+        "score":0.82291937,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Snooze alarm on Glance Clock. Snooze alarm on Glance Clock when the button is pressed",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.814785,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"\u26a0\ufe0f disarm Blink system. Disarm Blink system with one press of a button",
+        "output":"TRIGGER SERVICE: Button widget, TRIGGER EVENT: Button press",
+        "score":0.7539833,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify your Das Keyboard when your Samsung Refrigerator's door is left open. Every time your Samsung Refrigerator's door is left open, a Signal will be sent to your Das Keyboard.",
+        "output":"TRIGGER SERVICE: Samsung Refrigerator, TRIGGER EVENT: Door is left open",
+        "score":0.79477,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Change the colors of your light when you close your oven door. Change the color of your Philips Hue lights when you close your Home Connect oven door",
+        "output":"TRIGGER SERVICE: Home Connect Oven, TRIGGER EVENT: Door closed",
+        "score":0.86726624,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Notify prayer time. Muslim prayer notifications",
+        "output":"TRIGGER SERVICE: Muslim Prayer Time, TRIGGER EVENT: Prayer time",
+        "score":0.77257735,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Start Home Connect dishwasher when electricity price is lowest. Start your Home Connect compatible dishwasher when the electricity price is lowest between a starting time and a finish time and for a duration specified by you.",
+        "output":"TRIGGER SERVICE: Watts, TRIGGER EVENT: Lowest electricity price",
+        "score":0.77987516,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Save New Trending GIFS to Your Drive. Save New Trending GIFS to Your Drive",
+        "output":"TRIGGER SERVICE: Giphy, TRIGGER EVENT: New trending GIF",
+        "score":0.73954856,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"When you arrive, disarm Blink. When you arrive at location, disarm Blink system.",
+        "output":"TRIGGER SERVICE: Location, TRIGGER EVENT: You enter an area",
+        "score":0.77400583,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Get your Hue Lights to colour loop when it's Christmas. Start Christmas Day with your Hue Lights Colour looping. Happy holidays! ",
+        "output":"TRIGGER SERVICE: Is It Christmas?, TRIGGER EVENT: Is It Christmas?",
+        "score":0.7679124,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Adjust thermostat when you leave a specific location. When you leave a specified location, automatically set your thermostat to a certain temperature.",
+        "output":"TRIGGER SERVICE: Location, TRIGGER EVENT: You exit an area",
+        "score":0.7158745,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Blink Hue Light when Garage Opens. Blink Philips Hue light when garage door opens",
+        "output":"TRIGGER SERVICE: Garadget, TRIGGER EVENT: Door opens",
+        "score":0.7161135,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Receive a notification if freezer door is left open too long. Get a notification on your iPhone, Android phone or any other device if your freezer door is left open too long.",
+        "output":"TRIGGER SERVICE: Home Connect Fridge Freezer, TRIGGER EVENT: Freezer door open too long",
+        "score":0.753275,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Turn on Wemo Insight Switch when UbiBot Temperature Rises above or Drops below. Use this Applet to turn on Wemo Insight Switch when UbiBot Temperature Rises above or Drops below",
+        "output":"TRIGGER SERVICE: UbiBot, TRIGGER EVENT: Temperature Rises above or Drops below",
+        "score":0.8622035,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    },
+    {
+        "input":"Tell Google Assistant to prepare for Christmas dinner. Get ready for Christmas dinner. With a simple phrase Google Assistant will preheat your oven using the fast preheat option. Just set your preferred temperature, duration and program.",
+        "output":"TRIGGER SERVICE: Google Assistant, TRIGGER EVENT: Say a simple phrase",
+        "score":0.7811609,
+        "instruction":"From the description of a rule: identify the 'trigger'"
+    }
+]
